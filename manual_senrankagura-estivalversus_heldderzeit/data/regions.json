@@ -1,0 +1,137 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "Eve Festival": {
+        "requires": "",
+        "connects_to": [
+            "Festival Day 1"
+        ],
+        "starting": true
+    },
+    "Festival Day 1": {
+        "requires": "",
+        "connects_to": [
+            "Festival Day 2"
+        ]
+    },
+    "Festival Day 2": {
+        "requires": "|Progressive Difficulty:1|",
+        "connects_to": [
+            "Festival Day 3"
+        ]
+    },
+    "Festival Day 3": {
+        "requires": "|Progressive Difficulty:1|",
+        "connects_to": [
+            "Festival Day 4"
+        ]
+    },
+    "Festival Day 4": {
+        "requires": "|Progressive Difficulty:2|",
+        "connects_to": [
+            "Festival Day 5"
+        ]
+    },
+    "Festival Day 5": {
+        "requires": "|Progressive Difficulty:2|",
+        "connects_to": [
+            "Festival Day 6"
+        ]
+    },
+    "Festival Day 6": {
+        "requires": "|Progressive Difficulty:3|",
+        "connects_to": [
+            "Festival Day 7"
+        ]
+    },
+    "Festival Day 7": {
+        "requires": "|Progressive Difficulty:3|",
+        "connects_to": [
+            "Festival Day 8"
+        ]
+    },
+    "Festival Day 8": {
+        "requires": "|Progressive Difficulty:4|"
+    },
+
+    "Yumi's Heart": {
+        "requires": "|Yumi| AND |Festival Platform:44|"
+    },
+    "Murakumo's Heart": {
+        "requires": "|Murakumo| AND |Festival Platform:8|"
+    },
+    "Yozakura's Heart": {
+        "requires": "|Yozakura| AND |Festival Platform:50|"
+    },
+    "Shiki's Heart": {
+        "requires": "|Shiki| AND |Festival Platform:24|"
+    },
+    "Minori's Heart": {
+        "requires": "|Minori| AND |Festival Platform:34|"
+    },
+    "Asuka's Heart": {
+        "requires": "|Asuka| AND |Festival Platform:48|"
+    },
+    "Ikaruga's Heart": {
+        "requires": "|Ikaruga| AND |Festival Platform:12|"
+    },
+    "Katsuragi's Heart": {
+        "requires": "|Katsuragi| AND |Festival Platform:20|"
+    },
+    "Yagyu's Heart": {
+        "requires": "|Yagyu| AND |Festival Platform:30|"
+    },
+    "Hibari's Heart": {
+        "requires": "|Hibari| AND |Festival Platform:60|"
+    },
+    "Miyabi's Heart": {
+        "requires": "|Miyabi| AND |Festival Platform:46|"
+    },
+    "Murasaki's Heart": {
+        "requires": "|Murasaki| AND |Festival Platform:10|"
+    },
+    "Imu's Heart": {
+        "requires": "|Imu| AND |Festival Platform:56|"
+    },
+    "Ryobi's Heart": {
+        "requires": "|Ryobi| AND |Festival Platform:58|"
+    },
+    "Ryona's Heart": {
+        "requires": "|Ryona| AND |Festival Platform:36|"
+    },
+    "Homura's Heart": {
+        "requires": "|Homura| AND |Festival Platform:6|"
+    },
+    "Yomi's Heart": {
+        "requires": "|Yomi| AND |Festival Platform:18|"
+    },
+    "Hikage's Heart": {
+        "requires": "|Hikage| AND |Festival Platform:22|"
+    },
+    "Mirai's Heart": {
+        "requires": "|Mirai| AND |Festival Platform:32|"
+    },
+    "Haruka's Heart": {
+        "requires": "|Haruka| AND |Festival Platform:62|"
+    },
+    "Jasmine's Heart": {
+        "requires": "|Jasmine| AND |Festival Platform:80|"
+    },
+    "Ryoki's Heart": {
+        "requires": "|Ryoki| AND |Festival Platform:78|"
+    },
+    "Renka's Heart": {
+        "requires": "|Renka| AND |Festival Platform:68|"
+    },
+    "Hanabi's Heart": {
+        "requires": "|Hanabi| AND |Festival Platform:70|"
+    },
+    "Kafuru's Heart": {
+        "requires": "|Kafuru| AND |Festival Platform:72|"
+    },
+    "Daidoji's Heart": {
+        "requires": "|Daidoji| AND |Festival Platform:80|"
+    },
+    "Rin's Heart": {
+        "requires": "|Rin| AND |Festival Platform:80|"
+    }
+}

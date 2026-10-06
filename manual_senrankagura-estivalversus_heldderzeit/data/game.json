@@ -1,0 +1,24 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Senran Kagura: Estival Versus",
+  "creator": "Held_der_Zeit",
+  "filler_item_name": "Shinobi Pride",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Playable Character"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Deadpool"
+      ],
+      "yaml_option": [
+        "start_with_deadpool"
+      ]
+    }
+  ],
+  "death_link": true,
+  "unused_goals_are_locations": false
+}

@@ -1,0 +1,2621 @@
+{
+	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "The Start of Summer - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Eve Festival",
+            "requires": "|Ryobi| AND |Ryona|",
+            "sort-key": "key-0-1-1"
+        },
+        {
+            "name": "Guided by the Halo - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Eve Festival",
+            "requires": "|Yumi|",
+            "sort-key": "key-0-1-2"
+        },
+        {
+            "name": "Guided by the Forehead - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Eve Festival",
+            "requires": "|Miyabi| AND |Imu|",
+            "sort-key": "key-0-1-3"
+        },
+        {
+            "name": "Guided by the Boob Goddess - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Eve Festival",
+            "requires": "|Asuka|",
+            "sort-key": "key-0-1-4"
+        },
+        {
+            "name": "Guided by Wild Grass - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Eve Festival",
+            "requires": "|Homura|",
+            "sort-key": "key-0-1-5"
+        },
+        {
+            "name": "Kagura Millennium Festival - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Eve Festival",
+            "requires": "|Renka|",
+            "sort-key": "key-0-1-6"
+        },
+        {
+            "name": "The Sister's Reunion - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 1",
+            "requires": "|Ryona|",
+            "sort-key": "key-0-2-1"
+        },
+        {
+            "name": "Dancing in the Summer Sun - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 1",
+            "requires": "|Yomi|",
+            "sort-key": "key-0-2-2"
+        },
+        {
+            "name": "Summer Makes Me Crazy - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 1",
+            "requires": "|Ikaruga| AND |Asuka|",
+            "sort-key": "key-0-2-3"
+        },
+        {
+            "name": "Platforms and Problems - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 1",
+            "requires": "|Shiki|",
+            "sort-key": "key-0-2-4"
+        },
+        {
+            "name": "How to Enjoy Summer - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 1",
+            "requires": "|Yozakura|",
+            "sort-key": "key-0-2-5"
+        },
+        {
+            "name": "The Undie-Eating Contest - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 2",
+            "requires": "|Haruka| and |Mirai|",
+            "sort-key": "key-0-3-1"
+        },
+        {
+            "name": "The Grand Grope-n-Grapple - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 2",
+            "requires": "|Katsuragi|",
+            "sort-key": "key-0-3-2"
+        },
+        {
+            "name": "Butt Splitting? - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 2",
+            "requires": "|Minori|",
+            "sort-key": "key-0-3-3"
+        },
+        {
+            "name": "Strip-n-Rip - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 2",
+            "requires": "|Murasaki|",
+            "sort-key": "key-0-3-4"
+        },
+        {
+            "name": "The Mikagura Sisters - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 2",
+            "requires": "|Hanabi| AND |Kafuru| AND |Renka|",
+            "sort-key": "key-0-3-5"
+        },
+        {
+            "name": "Those Who Hesitate - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 2",
+            "requires": "|Kafuru|",
+            "sort-key": "key-0-3-6"
+        },
+        {
+            "name": "A Mother's Bond - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 3",
+            "requires": "|Imu|",
+            "sort-key": "key-0-4-1"
+        },
+        {
+            "name": "Determined Decree - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 3",
+            "requires": "|Katsuragi|",
+            "sort-key": "key-0-4-2"
+        },
+        {
+            "name": "The Existence of Emotions - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 3",
+            "requires": "|Hikage| AND |Yomi|",
+            "sort-key": "key-0-4-3"
+        },
+        {
+            "name": "A Small Wisecrack - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 3",
+            "requires": "|Mirai|",
+            "sort-key": "key-0-4-4"
+        },
+        {
+            "name": "Reunion with Kurokage - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 3",
+            "requires": "|Yumi|",
+            "sort-key": "key-0-4-5"
+        },
+        {
+            "name": "Not Coming Out - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 4",
+            "requires": "|Mirai|",
+            "sort-key": "key-0-5-1"
+        },
+        {
+            "name": "Number One Fan - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 4",
+            "requires": "|Murasaki|",
+            "sort-key": "key-0-5-2"
+        },
+        {
+            "name": "Slippery Oil - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 4",
+            "requires": "|Hibari|",
+            "sort-key": "key-0-5-3"
+        },
+        {
+            "name": "Haruka the Technician - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 4",
+            "requires": "|Haruka|",
+            "sort-key": "key-0-5-4"
+        },
+        {
+            "name": "She Belongs to No One - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 4",
+            "requires": "|Yagyu|",
+            "sort-key": "key-0-5-5"
+        },
+        {
+            "name": "When Hibari Gets Mad - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 4",
+            "requires": "|Hibari|",
+            "sort-key": "key-0-5-6"
+        },
+        {
+            "name": "The Fragrance of the Bourgeoisie - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 5",
+            "requires": "|Yomi|",
+            "sort-key": "key-0-6-1"
+        },
+        {
+            "name": "The Once-in-a-Millennium Festival - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 5",
+            "requires": "|Ikaruga|",
+            "sort-key": "key-0-6-2"
+        },
+        {
+            "name": "Last Words - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 5",
+            "requires": "|Ryobi|",
+            "sort-key": "key-0-6-3"
+        },
+        {
+            "name": "Mama - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 5",
+            "requires": "|Miyabi|",
+            "sort-key": "key-0-6-4"
+        },
+        {
+            "name": "Important Job - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 5",
+            "requires": "|Murakumo|",
+            "sort-key": "key-0-6-5"
+        },
+        {
+            "name": "Leaving with Love - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 5",
+            "requires": "|Yagyu|",
+            "sort-key": "key-0-6-6"
+        },
+        {
+            "name": "The Sister's Lie - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 5",
+            "requires": "|Hanabi|",
+            "sort-key": "key-0-6-7"
+        },
+        {
+            "name": "To See That Girl - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 6",
+            "requires": "|Kafuru|",
+            "sort-key": "key-0-7-1"
+        },
+        {
+            "name": "Ice Queen - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 6",
+            "requires": "|Hikage|",
+            "sort-key": "key-0-7-2"
+        },
+        {
+            "name": "Whenever - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 6",
+            "requires": "|Imu|",
+            "sort-key": "key-0-7-3"
+        },
+        {
+            "name": "The Egg Rice Bowl - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 6",
+            "requires": "|Miyabi|",
+            "sort-key": "key-0-7-4"
+        },
+        {
+            "name": "At Any Cost - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 6",
+            "requires": "|Asuka|",
+            "sort-key": "key-0-7-5"
+        },
+        {
+            "name": "Any Face - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 7",
+            "requires": "|Miyabi|",
+            "sort-key": "key-0-8-1"
+        },
+        {
+            "name": "La Ninja Japonaise - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 7",
+            "requires": "|Shiki|",
+            "sort-key": "key-0-8-2"
+        },
+        {
+            "name": "Super Dish Cooking - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 7",
+            "requires": "|Yozakura|",
+            "sort-key": "key-0-8-3"
+        },
+        {
+            "name": "Hide 'n' Seek - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 7",
+            "requires": "|Minori|",
+            "sort-key": "key-0-8-4"
+        },
+        {
+            "name": "Beautiful Moon - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 7",
+            "requires": "|Yumi|",
+            "sort-key": "key-0-8-5"
+        },
+        {
+            "name": "What Needs to Be Said - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 7",
+            "requires": "|Ryona|",
+            "sort-key": "key-0-8-6"
+        },
+        {
+            "name": "Thank You - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 7",
+            "requires": "|Ryobi|",
+            "sort-key": "key-0-8-7"
+        },
+        {
+            "name": "Even If It's Just for Us - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 7",
+            "requires": "|Kafuru|",
+            "sort-key": "key-0-8-8"
+        },
+        {
+            "name": "Jasmine - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Sayuri|",
+            "sort-key": "key-0-8-1"
+        },
+        {
+            "name": "Power of a Former Kagura - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Jasmine|",
+            "sort-key": "key-0-8-2"
+        },
+        {
+            "name": "The Depth of Emotions - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Jasmine|",
+            "sort-key": "key-0-8-3"
+        },
+        {
+            "name": "Becoming a Kagura - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Renka|",
+            "sort-key": "key-0-8-4"
+        },
+        {
+            "name": "Tolerant Evil - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Renka|",
+            "sort-key": "key-0-8-5"
+        },
+        {
+            "name": "Countless Losses - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Asuka|",
+            "sort-key": "key-0-8-6"
+        },
+        {
+            "name": "Brand of Failure - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Yumi|",
+            "sort-key": "key-0-8-7"
+        },
+        {
+            "name": "Until the Final Moment - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Ryoki|",
+            "sort-key": "key-0-8-8"
+        },
+        {
+            "name": "End of Summer - Clear",
+            "category": [
+                "Kagura Millennium Festival",
+                "Mission Clear"
+            ],
+            "region": "Festival Day 8",
+            "requires": "|Ryobi| AND |Progressive Difficulty:5|",
+            "sort-key": "key-0-8-9"
+        },
+        {
+            "name": "The Sister's Reunion - Festival Platform",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 1",
+            "requires": "",
+            "sort-key": "key-1-2-1-1"
+        },
+        {
+            "name": "Platforms and Problems - Festival Platform at Start",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 1",
+            "requires": "",
+            "sort-key": "key-1-2-4-1"
+        },
+        {
+            "name": "Platforms and Problems - Festival Platform under Bridge",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 1",
+            "requires": "",
+            "sort-key": "key-1-2-4-2"
+        },
+        {
+            "name": "Platforms and Problems - Festival Platform at End",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 1",
+            "requires": "",
+            "sort-key": "key-1-2-4-3"
+        },
+        {
+            "name": "The Undie-Eating Contest - Festival Platform",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 2",
+            "requires": "",
+            "sort-key": "key-1-3-1-1"
+        },
+        {
+            "name": "The Grand Grope-n-Grapple - Festival Platform",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 2",
+            "requires": "",
+            "sort-key": "key-1-3-2-1"
+        },
+        {
+            "name": "A Mother's Bond - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-1-1"
+        },
+        {
+            "name": "A Mother's Bond - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-1-2"
+        },
+        {
+            "name": "A Mother's Bond - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-1-3"
+        },
+        {
+            "name": "A Mother's Bond - Festival Platform 4",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-1-4"
+        },
+        {
+            "name": "A Mother's Bond - Festival Platform 5",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-1-5"
+        },
+        {
+            "name": "Determined Decree - Festival Platform behind Spawn",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-2-1"
+        },
+        {
+            "name": "Determined Decree - Festival Platform near Entrance",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-2-2"
+        },
+        {
+            "name": "Determined Decree - Festival Platform on Pathway",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-2-3"
+        },
+        {
+            "name": "Determined Decree - Festival Platform near Waterfall",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-2-4"
+        },
+        {
+            "name": "The Existence of Emotions - Festival Platform at End of Street",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-3-1"
+        },
+        {
+            "name": "The Existence of Emotions - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-3-2"
+        },
+        {
+            "name": "The Existence of Emotions - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-3-3"
+        },
+        {
+            "name": "The Existence of Emotions - Festival Platform 4",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-3-4"
+        },
+        {
+            "name": "The Existence of Emotions - Festival Platform 5",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-3-5"
+        },
+        {
+            "name": "Reunion with Kurokage - Festival Platform at Snowbunny",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-5-1"
+        },
+        {
+            "name": "Reunion with Kurokage - Festival Platform at Left Dead End",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-5-2"
+        },
+        {
+            "name": "Reunion with Kurokage - Festival Platform at Right Dead End",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-5-3"
+        },
+        {
+            "name": "Reunion with Kurokage - Festival Platform at Snowbebey",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-5-4"
+        },
+        {
+            "name": "Reunion with Kurokage - Festival Platform at Christmas Tree",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 3",
+            "requires": "",
+            "sort-key": "key-1-4-5-5"
+        },
+        {
+            "name": "Not Coming Out - Festival Platform behind first House",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-1-1"
+        },
+        {
+            "name": "Not Coming Out - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-1-2"
+        },
+        {
+            "name": "Not Coming Out - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-1-3"
+        },
+        {
+            "name": "Slippery Oil - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-3-1"
+        },
+        {
+            "name": "Slippery Oil - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-3-2"
+        },
+        {
+            "name": "Slippery Oil - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-3-3"
+        },
+        {
+            "name": "Haruka the Technician - Festival Platform",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-4-1"
+        },
+        {
+            "name": "She Belongs to No One - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-5-1"
+        },
+        {
+            "name": "She Belongs to No One - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-5-2"
+        },
+        {
+            "name": "She Belongs to No One - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-5-3"
+        },
+        {
+            "name": "When Hibari Gets Mad - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-6-1"
+        },
+        {
+            "name": "When Hibari Gets Mad - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-6-2"
+        },
+        {
+            "name": "When Hibari Gets Mad - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 4",
+            "requires": "",
+            "sort-key": "key-1-5-6-3"
+        },
+        {
+            "name": "The Fragrance of the Bourgeoisie - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-1-1"
+        },
+        {
+            "name": "The Fragrance of the Bourgeoisie - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-1-2"
+        },
+        {
+            "name": "The Fragrance of the Bourgeoisie - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-1-3"
+        },
+        {
+            "name": "The Fragrance of the Bourgeoisie - Festival Platform 4",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-1-4"
+        },
+        {
+            "name": "The Fragrance of the Bourgeoisie - Festival Platform 5",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-1-5"
+        },
+        {
+            "name": "Last Words - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-3-1"
+        },
+        {
+            "name": "Last Words - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-3-2"
+        },
+        {
+            "name": "Last Words - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-3-3"
+        },
+        {
+            "name": "Last Words - Festival Platform 4",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-3-4"
+        },
+        {
+            "name": "Last Words - Festival Platform 5",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-3-5"
+        },
+        {
+            "name": "Mama - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-4-1"
+        },
+        {
+            "name": "Mama - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-4-2"
+        },
+        {
+            "name": "Mama - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-4-3"
+        },
+        {
+            "name": "Leaving with Love - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-6-1"
+        },
+        {
+            "name": "Leaving with Love - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-6-2"
+        },
+        {
+            "name": "Leaving with Love - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-6-3"
+        },
+        {
+            "name": "Leaving with Love - Festival Platform 4",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-6-4"
+        },
+        {
+            "name": "Leaving with Love - Festival Platform 5",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 5",
+            "requires": "",
+            "sort-key": "key-1-6-6-5"
+        },
+        {
+            "name": "Ice Queen - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 6",
+            "requires": "",
+            "sort-key": "key-1-7-2-1"
+        },
+        {
+            "name": "Ice Queen - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 6",
+            "requires": "",
+            "sort-key": "key-1-7-2-2"
+        },
+        {
+            "name": "Ice Queen - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 6",
+            "requires": "",
+            "sort-key": "key-1-7-2-3"
+        },
+        {
+            "name": "Ice Queen - Festival Platform 4",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 6",
+            "requires": "",
+            "sort-key": "key-1-7-2-4"
+        },
+        {
+            "name": "Whenever - Festival Platform",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 6",
+            "requires": "",
+            "sort-key": "key-1-7-3-1"
+        },
+        {
+            "name": "The Egg Rice Bowl - Festival Platform",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 6",
+            "requires": "",
+            "sort-key": "key-1-7-4-1"
+        },
+        {
+            "name": "At Any Cost - Festival Platform",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 6",
+            "requires": "",
+            "sort-key": "key-1-7-5-1"
+        },
+        {
+            "name": "Any Face - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-1-1"
+        },
+        {
+            "name": "Any Face - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-1-1"
+        },
+        {
+            "name": "La Ninja Japonaise - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-2-1"
+        },
+        {
+            "name": "La Ninja Japonaise - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-2-1"
+        },
+        {
+            "name": "Hide 'n' Seek - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-4-1"
+        },
+        {
+            "name": "Hide 'n' Seek - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-4-2"
+        },
+        {
+            "name": "Hide 'n' Seek - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-4-3"
+        },
+        {
+            "name": "Hide 'n' Seek - Festival Platform 4",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-4-4"
+        },
+        {
+            "name": "Thank You - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-7-1"
+        },
+        {
+            "name": "Thank You - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-7-2"
+        },
+        {
+            "name": "Even If It's Just for Us - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-8-1"
+        },
+        {
+            "name": "Even If It's Just for Us - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 7",
+            "requires": "",
+            "sort-key": "key-1-8-8-2"
+        },
+        {
+            "name": "Tolerant Evil - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 8",
+            "requires": "",
+            "sort-key": "key-1-8-5-1"
+        },
+        {
+            "name": "Tolerant Evil - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 8",
+            "requires": "",
+            "sort-key": "key-1-8-5-2"
+        },
+        {
+            "name": "Until the Final Moment - Festival Platform 1",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 8",
+            "requires": "",
+            "sort-key": "key-1-8-8-1"
+        },
+        {
+            "name": "Until the Final Moment - Festival Platform 2",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 8",
+            "requires": "",
+            "sort-key": "key-1-8-8-2"
+        },
+        {
+            "name": "Until the Final Moment - Festival Platform 3",
+            "category": [
+                "Kagura Millennium Festival",
+                "Festival Platform"
+            ],
+            "region": "Festival Day 8",
+            "requires": "",
+            "sort-key": "key-1-8-8-3"
+        },
+
+
+
+
+
+
+
+        {
+            "name": "A Resplendent Bride - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yumi's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-1-1"
+        },
+        {
+            "name": "Daring Mom - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yumi's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-1-2"
+        },
+        {
+            "name": "Acting Cute - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yumi's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-1-3"
+        },
+        {
+            "name": "A Destined Encounter - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yumi's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-1-4"
+        },
+        {
+            "name": "Not Too Distant, Not Too Close - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yumi's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-1-5"
+        },
+        {
+            "name": "Off with the Mask - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murakumo's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-2-1"
+        },
+        {
+            "name": "Emerald Eyes - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murakumo's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-2-2"
+        },
+        {
+            "name": "I Haven't Done It - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murakumo's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-2-3"
+        },
+        {
+            "name": "Mute Effort - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murakumo's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-2-4"
+        },
+        {
+            "name": "Other Side of Endurance - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murakumo's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-2-5"
+        },
+        {
+            "name": "Discipline at the Table - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yozakura's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-3-1"
+        },
+        {
+            "name": "New Way of Eating - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yozakura's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-3-2"
+        },
+        {
+            "name": "One a Day - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yozakura's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-3-3"
+        },
+        {
+            "name": "Trailblazing a New Frontier - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yozakura's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-3-4"
+        },
+        {
+            "name": "Enjoying Food - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yozakura's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-3-5"
+        },
+        {
+            "name": "Ultiate Blogger - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Shiki's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-4-1"
+        },
+        {
+            "name": "Human Combustion - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Shiki's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-4-2"
+        },
+        {
+            "name": "Sexy Japanese Dance - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Shiki's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-4-3"
+        },
+        {
+            "name": "Maniacal Squid - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Shiki's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-4-4"
+        },
+        {
+            "name": "Revenge of Mirai - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Shiki's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-4-5"
+        },
+        {
+            "name": "Weird Treats - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Minori's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-5-1"
+        },
+        {
+            "name": "Speech Be Spoken - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Minori's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-5-2"
+        },
+        {
+            "name": "Is That French? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Minori's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-5-3"
+        },
+        {
+            "name": "Funny Treat - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Minori's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-5-4"
+        },
+        {
+            "name": "MINORI FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Minori's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-5-5"
+        },
+        {
+            "name": "Asuka = Hanzo? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Askua's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-6-1"
+        },
+        {
+            "name": "I Love Intensity - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Askua's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-6-2"
+        },
+        {
+            "name": "Imitation - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Askua's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-6-3"
+        },
+        {
+            "name": "A Demon is Coming! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Askua's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-6-4"
+        },
+        {
+            "name": "Grandpa's Evil Deed - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Askua's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-6-5"
+        },
+        {
+            "name": "Transform, BC Mask! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ikrauga's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-7-1"
+        },
+        {
+            "name": "Enter the Shipmate Sisters - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ikrauga's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-7-2"
+        },
+        {
+            "name": "Assault of Yumiverine - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ikrauga's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-7-3"
+        },
+        {
+            "name": "Next Gen Hero - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "YuIkraugami's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-7-4"
+        },
+        {
+            "name": "President Haru's Invasion! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ikrauga's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-7-5"
+        },
+        {
+            "name": "Marshmallow Butt - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Katsuragi's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-8-1"
+        },
+        {
+            "name": "Pot Belly - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Katsuragi's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-8-2"
+        },
+        {
+            "name": "Snuggly Legs - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Katsuragi's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-8-3"
+        },
+        {
+            "name": "Neck, Pits, 'n' Navel - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Katsuragi's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-8-4"
+        },
+        {
+            "name": "Silky Back - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Katsuragi's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-8-5"
+        },
+        {
+            "name": "Where's Hibari? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yagyu's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-9-1"
+        },
+        {
+            "name": "Eternal Rival - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yagyu's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-9-2"
+        },
+        {
+            "name": "Aroma of Sweets - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yagyu's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-9-3"
+        },
+        {
+            "name": "So Many Hibaris - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yagyu's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-9-4"
+        },
+        {
+            "name": "Hibariland - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yagyu's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-9-5"
+        },
+        {
+            "name": "Being a Woman - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hibari's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-10-1"
+        },
+        {
+            "name": "Through Experience - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hibari's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-10-2"
+        },
+        {
+            "name": "Being a Woman? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hibari's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-10-3"
+        },
+        {
+            "name": "WO-MAN! WO-MAN! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hibari's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-10-4"
+        },
+        {
+            "name": "HIBRAI FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hibari's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-10-5"
+        },
+        {
+            "name": "Call Me a Hunk - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Miyabi's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-11-1"
+        },
+        {
+            "name": "Big Announcement - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Miyabi's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-11-2"
+        },
+        {
+            "name": "Those Who Call me - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Miyabi's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-11-3"
+        },
+        {
+            "name": "I Respect You as a Woman - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Miyabi's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-11-4"
+        },
+        {
+            "name": "MIYABI FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Miyabi's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-11-5"
+        },
+        {
+            "name": "in Search of a Song and Dance - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murasaki's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-12-1"
+        },
+        {
+            "name": "Baited by the Sound - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murasaki's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-12-2"
+        },
+        {
+            "name": "Musical - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murasaki's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-12-3"
+        },
+        {
+            "name": "Teach Me Love? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murasaki's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-12-4"
+        },
+        {
+            "name": "Sister Was the Mastermind - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Murasaki's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-12-5"
+        },
+        {
+            "name": "Pro Boxer Imu - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Imu's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-13-1"
+        },
+        {
+            "name": "Sunglasses Incident - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Imu's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-13-2"
+        },
+        {
+            "name": "Deep-Fried Incident - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Imu's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-13-3"
+        },
+        {
+            "name": "See-Through Uniform - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Imu's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-13-4"
+        },
+        {
+            "name": "Long-Standing Grudge - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Imu's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-13-5"
+        },
+        {
+            "name": "Age of Big Booty - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryobi's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-14-1"
+        },
+        {
+            "name": "Legend of the Booty Savior - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryobi's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-14-2"
+        },
+        {
+            "name": "The Scented Booty - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryobi's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-14-3"
+        },
+        {
+            "name": "Whisper of the Flat-Chested Demon - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryobi's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-14-4"
+        },
+        {
+            "name": "RYOBI FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryobi's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-14-5"
+        },
+        {
+            "name": "Tempura Udon - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryona's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-15-1"
+        },
+        {
+            "name": "Slippery 'n' Chewy - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryona's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-15-2"
+        },
+        {
+            "name": "Lost Cause - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryona's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-15-3"
+        },
+        {
+            "name": "That Girl - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryona's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-15-4"
+        },
+        {
+            "name": "Tempura Ninja Art - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryona's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-15-5"
+        },
+        {
+            "name": "I Can't Talk! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Homura's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-16-1"
+        },
+        {
+            "name": "Charades - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Homura's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-16-2"
+        },
+        {
+            "name": "Can't Get Through! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Homura's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-16-3"
+        },
+        {
+            "name": "Impersonation of a Yoma? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Homura's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-16-4"
+        },
+        {
+            "name": "Finally Got Through? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Homura's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-16-5"
+        },
+        {
+            "name": "Shinobi's Clothing - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yomi's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-17-1"
+        },
+        {
+            "name": "Useless Padding - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yomi's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-17-2"
+        },
+        {
+            "name": "Bad with Numbers? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yomi's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-17-3"
+        },
+        {
+            "name": "The Simple Life - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yomi's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-17-4"
+        },
+        {
+            "name": "YOMI FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Yomi's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-17-5"
+        },
+        {
+            "name": "In Search for a Place to Nap - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hikage's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-18-1"
+        },
+        {
+            "name": "Don't Think - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hikage's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-18-2"
+        },
+        {
+            "name": "Yahoo Time - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hikage's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-18-3"
+        },
+        {
+            "name": "Drowsiness to the Max - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hikage's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-18-4"
+        },
+        {
+            "name": "HIKAGE FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hikage's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-18-5"
+        },
+        {
+            "name": "Pilgrimage Battle - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Mirai's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-19-1"
+        },
+        {
+            "name": "Glamorous Tri-Stars - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Mirai's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-19-2"
+        },
+        {
+            "name": "Curly Tri-Stars - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Mirai's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-19-3"
+        },
+        {
+            "name": "Rare Item Scramble - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Mirai's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-19-4"
+        },
+        {
+            "name": "MRIAI FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Mirai's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-19-5"
+        },
+        {
+            "name": "Mystersious Medicine - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Haruka's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-20-1"
+        },
+        {
+            "name": "Ms. Greedy - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Haruka's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-20-2"
+        },
+        {
+            "name": "Release Your Desire - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Haruka's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-20-3"
+        },
+        {
+            "name": "Paradise - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Haruka's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-20-4"
+        },
+        {
+            "name": "HARUKA FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Haruka's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-20-5"
+        },
+        {
+            "name": "Those Youthful Days - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Jasmine's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-21-1"
+        },
+        {
+            "name": "Play Dead - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Jasmine's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-21-2"
+        },
+        {
+            "name": "Those Who Are Free - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Jasmine's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-21-3"
+        },
+        {
+            "name": "Love Beginning with Pain - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Jasmine's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-21-4"
+        },
+        {
+            "name": "JASMINE FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Jasmine's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-21-5"
+        },
+        {
+            "name": "Endless Urge to Destroy - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryoki's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-22-1"
+        },
+        {
+            "name": "Sutras Are Dangerous - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryoki's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-22-2"
+        },
+        {
+            "name": "Training in That Realm - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryoki's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-22-3"
+        },
+        {
+            "name": "That Realm? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryoki's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-22-4"
+        },
+        {
+            "name": "So Happy - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Ryoki's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-22-5"
+        },
+        {
+            "name": "Goddamn it! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Renka's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-23-1"
+        },
+        {
+            "name": "Shut-In Consultation - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Renka's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-23-2"
+        },
+        {
+            "name": "Dieting Consultation - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Renka's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-23-3"
+        },
+        {
+            "name": "Sexual Harassment Consultation - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Renka's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-23-4"
+        },
+        {
+            "name": "RENKA FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Renka's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-23-5"
+        },
+        {
+            "name": "KABOOOM! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hanabi's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-24-1"
+        },
+        {
+            "name": "Sticker? Background? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hanabi's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-24-2"
+        },
+        {
+            "name": "Stop Thinking? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hanabi's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-24-3"
+        },
+        {
+            "name": "Trigonometric Theorems? - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hanabi's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-24-4"
+        },
+        {
+            "name": "HANABI FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Hanabi's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-24-5"
+        },
+        {
+            "name": "Case Closed! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Kafuru's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-25-1"
+        },
+        {
+            "name": "Case of The Little Girl - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Kafuru's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-25-2"
+        },
+        {
+            "name": "Play House - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Kafuru's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-25-3"
+        },
+        {
+            "name": "You Know, For Kids - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Kafuru's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-25-4"
+        },
+        {
+            "name": "Kafuru Final - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Kafuru's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-25-5"
+        },
+        {
+            "name": "Ultimate Power - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Daidoji's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-26-1"
+        },
+        {
+            "name": "The Perpetual Third Year's Lifestyle - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Daidoji's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-26-2"
+        },
+        {
+            "name": "More and More - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Daidoji's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-26-3"
+        },
+        {
+            "name": "Ultimate Groping Technique - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Daidoji's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-26-4"
+        },
+        {
+            "name": "DAIDOJI FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Daidoji's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-26-5"
+        },
+        {
+            "name": "A Woman's Decline - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Rin's Heart",
+            "requires": "|Progressive Difficulty:0|",
+            "sort-key": "key-2-27-1"
+        },
+        {
+            "name": "An Ugly Dispute - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Rin's Heart",
+            "requires": "|Progressive Difficulty:1|",
+            "sort-key": "key-2-27-2"
+        },
+        {
+            "name": "I Loathe the Young! - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Rin's Heart",
+            "requires": "|Progressive Difficulty:2|",
+            "sort-key": "key-2-27-3"
+        },
+        {
+            "name": "Still Young - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Rin's Heart",
+            "requires": "|Progressive Difficulty:3|",
+            "sort-key": "key-2-27-4"
+        },
+        {
+            "name": "RIN FINAL - Clear",
+            "category": [
+                "Shinobi Girl's Heart"
+            ],
+            "region": "Rin's Heart",
+            "requires": "|Progressive Difficulty:4|",
+            "sort-key": "key-2-27-5"
+        },
+
+
+
+        {
+            "name": "Fearful Virus - Clear",
+            "category": [
+                "Special Missions",
+                "Base Mission"
+            ],
+            "region": "Festival Day 3",
+            "requires": "|Yumi| AND |Progressive Difficulty:4|",
+            "sort-key": "key-3-0-1"
+        },
+        {
+            "name": "I'm the Star! - Clear",
+            "category": [
+                "Special Missions",
+                "Base Mission"
+            ],
+            "region": "Festival Day 3",
+            "requires": "|Asuka| AND |Progressive Difficulty:4|",
+            "sort-key": "key-3-0-2"
+        }
+    ]
+}
+
