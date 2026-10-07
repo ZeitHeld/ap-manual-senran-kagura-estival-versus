@@ -6,17 +6,9 @@
   "starting_items": [
     {
       "item_categories": [
-        "Playable Character"
+        "Playable Characters"
       ],
       "random": 1
-    },
-    {
-      "items": [
-        "Deadpool"
-      ],
-      "yaml_option": [
-        "start_with_deadpool"
-      ]
     }
   ],
   "death_link": true,

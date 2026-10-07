@@ -1595,7 +1595,7 @@
             "sort-key": "key-2-5-4"
         },
         {
-            "name": "MINORI FINAL - Clear",
+            "name": "Antidote - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -1820,7 +1820,7 @@
             "sort-key": "key-2-10-4"
         },
         {
-            "name": "HIBRAI FINAL - Clear",
+            "name": "No Turning Back - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -1865,7 +1865,7 @@
             "sort-key": "key-2-11-4"
         },
         {
-            "name": "MIYABI FINAL - Clear",
+            "name": "True Hunkitude - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2000,7 +2000,7 @@
             "sort-key": "key-2-14-4"
         },
         {
-            "name": "RYOBI FINAL - Clear",
+            "name": "Hyper Booty Senran Kagura - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2135,7 +2135,7 @@
             "sort-key": "key-2-17-4"
         },
         {
-            "name": "YOMI FINAL - Clear",
+            "name": "Bandit? - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2180,7 +2180,7 @@
             "sort-key": "key-2-18-4"
         },
         {
-            "name": "HIKAGE FINAL - Clear",
+            "name": "A Place to Nap at Last - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2225,7 +2225,7 @@
             "sort-key": "key-2-19-4"
         },
         {
-            "name": "MRIAI FINAL - Clear",
+            "name": "General Angel - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2270,7 +2270,7 @@
             "sort-key": "key-2-20-4"
         },
         {
-            "name": "HARUKA FINAL - Clear",
+            "name": "Tempura? - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2315,7 +2315,7 @@
             "sort-key": "key-2-21-4"
         },
         {
-            "name": "JASMINE FINAL - Clear",
+            "name": "A Little Lonely - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2405,7 +2405,7 @@
             "sort-key": "key-2-23-4"
         },
         {
-            "name": "RENKA FINAL - Clear",
+            "name": "Uproar Consultation - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2450,7 +2450,7 @@
             "sort-key": "key-2-24-4"
         },
         {
-            "name": "HANABI FINAL - Clear",
+            "name": "Something Hard? - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2495,7 +2495,7 @@
             "sort-key": "key-2-25-4"
         },
         {
-            "name": "Kafuru Final - Clear",
+            "name": "I'll go Obsolete! - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2540,7 +2540,7 @@
             "sort-key": "key-2-26-4"
         },
         {
-            "name": "DAIDOJI FINAL - Clear",
+            "name": "Meaning of Femininity - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2585,7 +2585,7 @@
             "sort-key": "key-2-27-4"
         },
         {
-            "name": "RIN FINAL - Clear",
+            "name": "Tea Party at the Community Center - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -2593,6 +2593,112 @@
             "requires": "|Progressive Difficulty:4|",
             "sort-key": "key-2-27-5"
         },
+		
+		
+		
+		
+		
+        {
+            "name": "I love them thick! - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Yumi| AND |Asuka|",
+            "sort-key": "key-3-0-1"
+        },
+		{
+            "name": "A Heated Battle - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Miyabi| AND |Homura|",
+            "sort-key": "key-3-0-2"
+        },
+		{
+            "name": "Death to All Big Busts - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Ryobi| AND |Mirai|",
+            "sort-key": "key-3-0-3"
+        },
+		{
+            "name": "Time to Teach - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Ryona| AND |Haruka|",
+            "sort-key": "key-3-0-4"
+        },
+		{
+            "name": "Happy Sister's Day - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Imu| AND |Murasaki|",
+            "sort-key": "key-3-0-5"
+        },
+		{
+            "name": "Dangerous Concoction - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Minori| AND |Hibari|",
+            "sort-key": "key-3-0-6"
+        },
+		{
+            "name": "Deadly Word Games - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Murakumo| AND |Hikage|",
+            "sort-key": "key-3-0-7"
+        },
+		{
+            "name": "Secret of the Gauntlets & Boots - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Katsuragi| AND |Yozakura|",
+            "sort-key": "key-3-0-8"
+        },
+		{
+            "name": "Stage Show - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Ikraruga| AND |Yomi|",
+            "sort-key": "key-3-0-9"
+        },
+		{
+            "name": "Horror is... - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Shiki| AND |Yagyu|",
+            "sort-key": "key-3-0-10"
+        },
+		{
+            "name": "To Know More About... - Clear",
+            "category": [
+                "Dual Shinobi Hearts"
+            ],
+            "region": "Dual Bloom",
+            "requires": "|Rin| AND |Daidoji|",
+            "sort-key": "key-3-0-11"
+        },
+		
+		
 
 
 
@@ -2602,9 +2708,9 @@
                 "Special Missions",
                 "Base Mission"
             ],
-            "region": "Festival Day 3",
-            "requires": "|Yumi| AND |Progressive Difficulty:4|",
-            "sort-key": "key-3-0-1"
+            "region": "Special Mission",
+            "requires": "|Yumi|",
+            "sort-key": "key-4-0-1"
         },
         {
             "name": "I'm the Star! - Clear",
@@ -2612,9 +2718,142 @@
                 "Special Missions",
                 "Base Mission"
             ],
-            "region": "Festival Day 3",
-            "requires": "|Asuka| AND |Progressive Difficulty:4|",
-            "sort-key": "key-3-0-2"
+            "region": "Special Mission",
+            "requires": "|Asuka|",
+            "sort-key": "key-4-0-2"
+        },
+        {
+            "name": "Justice of the Moon - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Yumi|",
+            "sort-key": "key-4-1-1"
+        },
+        {
+            "name": "Justice of the Sun - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Asuka|",
+            "sort-key": "key-4-1-2"
+        },
+        {
+            "name": "Defeating Daidōji - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Asuka|",
+            "sort-key": "key-4-1-3"
+        },
+        {
+            "name": "Daidōji Barging in! - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Daidoji|",
+            "sort-key": "key-4-1-4"
+        },
+        {
+            "name": "The Suffering of Hell - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Homura|",
+            "sort-key": "key-4-1-5"
+        },
+        {
+            "name": "The Power of Love - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Rin|",
+            "sort-key": "key-4-1-6"
+        },
+        {
+            "name": "Battle of the Old 'n' New Hebijo - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Miyabi|",
+            "sort-key": "key-4-1-7"
+        },
+        {
+            "name": "Overcoming the Fourth Wall - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Homura|",
+            "sort-key": "key-4-1-8"
+        },
+        {
+            "name": "Shinobi of the New Generation - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|@Gessen Academy:5| AND |@Hebijo Academy:5| AND |Progressive Difficulty:5|",
+            "sort-key": "key-4-2-1"
+        },
+        {
+            "name": "Shinobi of the Old Generation - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|@Hanzo Academy:5| AND |@Crimson Squad:5| AND |Progressive Difficulty:5|",
+            "sort-key": "key-4-2-2"
+        },
+        {
+            "name": "Don't Underestimate the Elderly - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|Sayuri| AND |Jasmine| AND |Progressive Difficulty:5|",
+            "sort-key": "key-4-2-3"
+        },
+        {
+            "name": "Youngsters Who Flap Their Wings - Clear",
+            "category": [
+                "Special Missions",
+                "DLC Mission"
+            ],
+            "region": "Special Mission",
+            "requires": "|@Gessen Academy:5| AND |@Hebijo Academy:5| AND |@Hanzo Academy:5| AND |@Crimson Squad:5| AND |@Mikagura Sisters:3| AND |Progressive Difficulty:5|",
+            "sort-key": "key-4-2-4"
+        },
+		
+		
+		
+		
+        {
+            "name": "Retrieved all Super-Secret Scrolls",
+            "category": [
+                "Goals"
+            ],
+            "region": "Goal",
+            "requires": "|All Scrolls|",
+            "sort-key": "key-10-0-1"
         }
     ]
 }

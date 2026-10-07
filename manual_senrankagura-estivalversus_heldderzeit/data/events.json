@@ -2,27 +2,48 @@
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
     "data": [
         {
-            "name": "Marvel event",
-            "requires": "|@Right Side:all|",
-            "visible": true
+            "name": "Frantic",
+            "requires": "|Frantic Mode| AND |Guard|"
         },
-        {
-            "name": "Capcom event",
-            "requires": "|@Left Side:all|"
+		{
+            "name": "Ryona",
+            "requires": "|Ryōna|"
         },
-        {
-            "name": "Stars_event",
-            "copy_location": "Stars%"
+		{
+            "name": "Ryobi",
+            "requires": "|Ryōbi|"
         },
-        {
-            "name": "X-Men Assemble",
-            "category": ["Right Side"],
-            "requires": "((|Wolverine|) OR |X-23|) AND |Storm| and |Magneto:1|"
+		{
+            "name": "Ryoki",
+            "requires": "|Ryōki|"
         },
-        {
-            "name": "Thunderbolts and Lightning",
-            "requires": "{CanReachLocation(Beat the Game - Storm)} and {CanReachLocation(Beat the Game - Thor)}",
-            "region": "Third Region"
+		{
+            "name": "Yagyu",
+            "requires": "|Yagyū|"
+        },
+		{
+            "name": "Daidoji",
+            "requires": "|Daidōji|"
+        },
+		{
+            "name": "Hanzo Scroll",
+            "requires": "|Hanzō Academy's Super-Secret Ninja Art Scroll|"
+        },
+		{
+            "name": "Gessen Scroll",
+            "requires": "|Gessen Academy's Super-Secret Ninja Art Scroll|"
+        },
+		{
+            "name": "Hebijo Scroll",
+            "requires": "|Hebijo Academy's Super-Secret Ninja Art Scroll|"
+        },
+		{
+            "name": "Crimson Scroll",
+            "requires": "|Crimson Squad's Super-Secret Ninja Art Scroll|"
+        },
+		{
+            "name": "All Scrolls",
+            "requires": "|Hanzo Scroll| AND |Gessen Scroll| AND |Hebijo Scroll| AND |Crimson Scroll|"
         }
     ]
 }

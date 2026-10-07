@@ -3,16 +3,57 @@
     "Special Missions": {
         "yaml_option": ["special_missions"]
     },
+    "Dual Shinobi Hearts": {
+        "yaml_option": ["dlc_dual_bloom"]
+    },
     "Naraku DLC": {
-        "yaml_option": ["dlc_naraku"]
+        "yaml_option": ["dlc_naraku"],
+		"hidden": true
     },
     "Ikki Tosen": {
-        "yaml_option": ["dlc_ikki_tousen"]
+        "yaml_option": ["dlc_ikki_tousen"],
+		"hidden": true
     },
     "Kagura DLC": {
-        "yaml_option": ["dlc_kagura"]
+        "yaml_option": ["dlc_kagura"],
+		"hidden": true
     },
     "Ayame DLC": {
-        "yaml_option": ["dlc_ayame"]
-    }
+        "yaml_option": ["dlc_ayame"],
+		"hidden": true
+    },
+    "DLC Mission": {
+        "yaml_option": ["dlc_mission_pack"],
+		"hidden": true
+    },
+    "Hebijo Academy": {
+		"hidden": true
+    },
+    "Hanzō Academy": {
+		"hidden": true
+    },
+    "Crimson Squad": {
+		"hidden": true
+    },
+    "Gessen Academy": {
+		"hidden": true
+    },
+    "Extra Character": {
+		"hidden": true
+    },
+    "Mikagura Sisters": {
+		"hidden": true
+    },
+    "DLC Character": {
+		"hidden": true
+    },
+    "Base Mission": {
+		"hidden": true
+    },
+	"Former Hebijo Academy": {
+		"hidden": true
+    },
+    "Former Hanzō Academy": {
+		"hidden": true
+    },
 }
