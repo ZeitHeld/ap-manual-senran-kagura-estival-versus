@@ -1,10 +1,6 @@
 {
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
     "data": [
-        {
-            "name": "Frantic",
-            "requires": "|Frantic Mode| AND |Guard|"
-        },
 		{
             "name": "Ryona",
             "requires": "|Ryōna|"
@@ -26,6 +22,18 @@
             "requires": "|Daidōji|"
         },
 		{
+            "name": "L1 Arts",
+            "requires": "|Level 1 Secret Ninja Arts|"
+        },
+		{
+            "name": "L2 Arts",
+            "requires": "|Level 2 Secret Ninja Arts|"
+        },
+		{
+            "name": "Ultimate Arts",
+            "requires": "|Ultimate Secret Ninja Arts|"
+        },
+		{
             "name": "Hanzo Scroll",
             "requires": "|Hanzō Academy's Super-Secret Ninja Art Scroll|"
         },
@@ -41,9 +49,39 @@
             "name": "Crimson Scroll",
             "requires": "|Crimson Squad's Super-Secret Ninja Art Scroll|"
         },
+
+
+        {
+            "name": "Frantic",
+            "requires": "|Frantic Mode| AND |Guard|"
+        },
 		{
             "name": "All Scrolls",
             "requires": "|Hanzo Scroll| AND |Gessen Scroll| AND |Hebijo Scroll| AND |Crimson Scroll|"
+        },
+		{
+            "name": "Difficulty 1",
+            "requires": "|Progressive Difficulty:1|"
+        },
+		{
+            "name": "Difficulty 2",
+            "requires": "|Progressive Difficulty:2|"
+        },
+		{
+            "name": "Difficulty 3",
+            "requires": "|Progressive Difficulty:3| AND |Usable Arts| AND (|Double Jump| OR |Aerial Rave|)"
+        },
+		{
+            "name": "Difficulty 4",
+            "requires": "|Progressive Difficulty:4| AND |Usable Arts| AND |Guard| AND (|Double Jump| OR |Aerial Rave|)"
+        },
+		{
+            "name": "Difficulty 5",
+            "requires": "|Progressive Difficulty:5| AND |Usable Arts| AND |Aerial Rave| AND |Guard| AND |Double Jump|"
+        },
+		{
+            "name": "Usable Arts",
+            "requires": "(|Frantic| OR |Shinobi Transformation|) AND (|L1 Arts| OR |L2 Arts| OR |Ultimate Arts|)"
         }
     ]
 }

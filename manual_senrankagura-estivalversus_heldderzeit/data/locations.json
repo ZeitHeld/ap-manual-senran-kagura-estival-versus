@@ -568,7 +568,7 @@
                 "Mission Clear"
             ],
             "region": "Festival Day 8",
-            "requires": "|Ryobi| AND |Progressive Difficulty:5|",
+            "requires": "|Ryobi| AND |Difficulty 5|",
             "sort-key": "key-0-8-9"
         },
         {
@@ -1393,7 +1393,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yumi's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-1-2"
         },
         {
@@ -1402,7 +1402,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yumi's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-1-3"
         },
         {
@@ -1411,7 +1411,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yumi's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-1-4"
         },
         {
@@ -1420,7 +1420,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yumi's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-1-5"
         },
         {
@@ -1438,7 +1438,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Murakumo's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-2-2"
         },
         {
@@ -1447,7 +1447,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Murakumo's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-2-3"
         },
         {
@@ -1456,7 +1456,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Murakumo's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-2-4"
         },
         {
@@ -1465,7 +1465,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Murakumo's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-2-5"
         },
         {
@@ -1483,7 +1483,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yozakura's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-3-2"
         },
         {
@@ -1492,7 +1492,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yozakura's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-3-3"
         },
         {
@@ -1501,7 +1501,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yozakura's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-3-4"
         },
         {
@@ -1510,7 +1510,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yozakura's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-3-5"
         },
         {
@@ -1528,7 +1528,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Shiki's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-4-2"
         },
         {
@@ -1537,7 +1537,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Shiki's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-4-3"
         },
         {
@@ -1546,7 +1546,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Shiki's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-4-4"
         },
         {
@@ -1555,7 +1555,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Shiki's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-4-5"
         },
         {
@@ -1573,7 +1573,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Minori's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-5-2"
         },
         {
@@ -1582,7 +1582,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Minori's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-5-3"
         },
         {
@@ -1591,7 +1591,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Minori's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-5-4"
         },
         {
@@ -1600,11 +1600,11 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Minori's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-5-5"
         },
         {
-            "name": "Asuka = Hanzo? - Clear",
+            "name": "Asuka = Hanzō? - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
@@ -1618,7 +1618,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Asuka's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-6-2"
         },
         {
@@ -1627,7 +1627,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Asuka's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-6-3"
         },
         {
@@ -1636,7 +1636,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Asuka's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-6-4"
         },
         {
@@ -1645,7 +1645,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Asuka's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-6-5"
         },
         {
@@ -1663,7 +1663,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ikaruga's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-7-2"
         },
         {
@@ -1672,7 +1672,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ikaruga's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-7-3"
         },
         {
@@ -1681,7 +1681,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ikaruga's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-7-4"
         },
         {
@@ -1690,7 +1690,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ikaruga's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-7-5"
         },
         {
@@ -1708,7 +1708,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Katsuragi's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-8-2"
         },
         {
@@ -1717,7 +1717,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Katsuragi's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-8-3"
         },
         {
@@ -1726,7 +1726,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Katsuragi's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-8-4"
         },
         {
@@ -1735,15 +1735,15 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Katsuragi's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-8-5"
         },
         {
-            "name": "Where's Hibari? - Clear",
+            "name": "Yagyū: Where's Hibari? - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Yagyu's Heart",
+            "region": "Yagyū's Heart",
             "requires": "|Progressive Difficulty:0|",
             "sort-key": "key-2-9-1"
         },
@@ -1752,8 +1752,8 @@
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Yagyu's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "region": "Yagyū's Heart",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-9-2"
         },
         {
@@ -1761,17 +1761,17 @@
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Yagyu's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "region": "Yagyū's Heart",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-9-3"
         },
         {
-            "name": "So Many Hibaris - Clear",
+            "name": "Yagyū So Many Hibaris - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Yagyu's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "region": "Yagyū's Heart",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-9-4"
         },
         {
@@ -1779,8 +1779,8 @@
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Yagyu's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "region": "Yagyū's Heart",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-9-5"
         },
         {
@@ -1798,7 +1798,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hibari's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-10-2"
         },
         {
@@ -1807,7 +1807,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hibari's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-10-3"
         },
         {
@@ -1816,7 +1816,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hibari's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-10-4"
         },
         {
@@ -1825,7 +1825,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hibari's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-10-5"
         },
         {
@@ -1843,7 +1843,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Miyabi's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-11-2"
         },
         {
@@ -1852,7 +1852,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Miyabi's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-11-3"
         },
         {
@@ -1861,7 +1861,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Miyabi's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-11-4"
         },
         {
@@ -1870,7 +1870,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Miyabi's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-11-5"
         },
         {
@@ -1888,7 +1888,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Murasaki's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-12-2"
         },
         {
@@ -1897,7 +1897,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Murasaki's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-12-3"
         },
         {
@@ -1906,7 +1906,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Murasaki's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-12-4"
         },
         {
@@ -1915,7 +1915,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Murasaki's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-12-5"
         },
         {
@@ -1933,7 +1933,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Imu's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-13-2"
         },
         {
@@ -1942,7 +1942,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Imu's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-13-3"
         },
         {
@@ -1951,7 +1951,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Imu's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-13-4"
         },
         {
@@ -1960,7 +1960,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Imu's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-13-5"
         },
         {
@@ -1978,7 +1978,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryobi's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-14-2"
         },
         {
@@ -1987,7 +1987,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryobi's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-14-3"
         },
         {
@@ -1996,7 +1996,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryobi's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-14-4"
         },
         {
@@ -2005,7 +2005,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryobi's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-14-5"
         },
         {
@@ -2023,7 +2023,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryona's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-15-2"
         },
         {
@@ -2032,7 +2032,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryona's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-15-3"
         },
         {
@@ -2041,7 +2041,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryona's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-15-4"
         },
         {
@@ -2050,7 +2050,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryona's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-15-5"
         },
         {
@@ -2068,7 +2068,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Homura's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-16-2"
         },
         {
@@ -2077,7 +2077,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Homura's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-16-3"
         },
         {
@@ -2086,7 +2086,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Homura's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-16-4"
         },
         {
@@ -2095,7 +2095,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Homura's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-16-5"
         },
         {
@@ -2113,7 +2113,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yomi's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-17-2"
         },
         {
@@ -2122,7 +2122,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yomi's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-17-3"
         },
         {
@@ -2131,7 +2131,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yomi's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-17-4"
         },
         {
@@ -2140,7 +2140,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Yomi's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-17-5"
         },
         {
@@ -2158,7 +2158,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hikage's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-18-2"
         },
         {
@@ -2167,7 +2167,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hikage's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-18-3"
         },
         {
@@ -2176,7 +2176,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hikage's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-18-4"
         },
         {
@@ -2185,7 +2185,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hikage's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-18-5"
         },
         {
@@ -2203,7 +2203,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Mirai's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-19-2"
         },
         {
@@ -2212,7 +2212,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Mirai's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-19-3"
         },
         {
@@ -2221,7 +2221,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Mirai's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-19-4"
         },
         {
@@ -2230,7 +2230,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Mirai's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-19-5"
         },
         {
@@ -2248,7 +2248,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Haruka's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-20-2"
         },
         {
@@ -2257,7 +2257,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Haruka's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-20-3"
         },
         {
@@ -2266,7 +2266,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Haruka's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-20-4"
         },
         {
@@ -2275,7 +2275,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Haruka's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-20-5"
         },
         {
@@ -2293,7 +2293,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Jasmine's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-21-2"
         },
         {
@@ -2302,7 +2302,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Jasmine's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-21-3"
         },
         {
@@ -2311,7 +2311,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Jasmine's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-21-4"
         },
         {
@@ -2320,7 +2320,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Jasmine's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-21-5"
         },
         {
@@ -2338,7 +2338,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryoki's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-22-2"
         },
         {
@@ -2347,7 +2347,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryoki's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-22-3"
         },
         {
@@ -2356,7 +2356,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryoki's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-22-4"
         },
         {
@@ -2365,7 +2365,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Ryoki's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-22-5"
         },
         {
@@ -2383,7 +2383,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Renka's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-23-2"
         },
         {
@@ -2392,7 +2392,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Renka's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-23-3"
         },
         {
@@ -2401,7 +2401,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Renka's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-23-4"
         },
         {
@@ -2410,7 +2410,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Renka's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-23-5"
         },
         {
@@ -2428,7 +2428,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hanabi's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-24-2"
         },
         {
@@ -2437,7 +2437,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hanabi's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-24-3"
         },
         {
@@ -2446,7 +2446,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hanabi's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-24-4"
         },
         {
@@ -2455,7 +2455,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Hanabi's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-24-5"
         },
         {
@@ -2473,7 +2473,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Kafuru's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-25-2"
         },
         {
@@ -2482,7 +2482,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Kafuru's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-25-3"
         },
         {
@@ -2491,7 +2491,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Kafuru's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-25-4"
         },
         {
@@ -2500,7 +2500,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Kafuru's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-25-5"
         },
         {
@@ -2508,44 +2508,44 @@
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Daidoji's Heart",
+            "region": "Daidōji: Daidōji's Heart",
             "requires": "|Progressive Difficulty:0|",
             "sort-key": "key-2-26-1"
         },
         {
-            "name": "The Perpetual Third Year's Lifestyle - Clear",
+            "name": "Daidōji: The Perpetual Third Year's Lifestyle - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Daidoji's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "region": "Daidōji's Heart",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-26-2"
         },
         {
-            "name": "More and More - Clear",
+            "name": "Daidōji: More and More - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Daidoji's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "region": "Daidōji's Heart",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-26-3"
         },
         {
-            "name": "Ultimate Groping Technique - Clear",
+            "name": "Daidōji: Ultimate Groping Technique - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Daidoji's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "region": "Daidōji's Heart",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-26-4"
         },
         {
-            "name": "Meaning of Femininity - Clear",
+            "name": "Daidōji: Meaning of Femininity - Clear",
             "category": [
                 "Shinobi Girl's Heart"
             ],
-            "region": "Daidoji's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "region": "Daidōji's Heart",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-26-5"
         },
         {
@@ -2563,7 +2563,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Rin's Heart",
-            "requires": "|Progressive Difficulty:1|",
+            "requires": "|Difficulty 1|",
             "sort-key": "key-2-27-2"
         },
         {
@@ -2572,7 +2572,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Rin's Heart",
-            "requires": "|Progressive Difficulty:2|",
+            "requires": "|Difficulty 2|",
             "sort-key": "key-2-27-3"
         },
         {
@@ -2581,7 +2581,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Rin's Heart",
-            "requires": "|Progressive Difficulty:3|",
+            "requires": "|Difficulty 3|",
             "sort-key": "key-2-27-4"
         },
         {
@@ -2590,7 +2590,7 @@
                 "Shinobi Girl's Heart"
             ],
             "region": "Rin's Heart",
-            "requires": "|Progressive Difficulty:4|",
+            "requires": "|Difficulty 4|",
             "sort-key": "key-2-27-5"
         },
 		
@@ -2809,7 +2809,7 @@
                 "DLC Mission"
             ],
             "region": "Special Mission",
-            "requires": "|@Gessen Academy:5| AND |@Hebijo Academy:5| AND |Progressive Difficulty:5|",
+            "requires": "|@Gessen Academy:5| AND |@Hebijo Academy:5| AND |Difficulty 5|",
             "sort-key": "key-4-2-1"
         },
         {
@@ -2819,7 +2819,7 @@
                 "DLC Mission"
             ],
             "region": "Special Mission",
-            "requires": "|@Hanzo Academy:5| AND |@Crimson Squad:5| AND |Progressive Difficulty:5|",
+            "requires": "|@Hanzō Academy:5| AND |@Crimson Squad:5| AND |Difficulty 5|",
             "sort-key": "key-4-2-2"
         },
         {
@@ -2829,7 +2829,7 @@
                 "DLC Mission"
             ],
             "region": "Special Mission",
-            "requires": "|Sayuri| AND |Jasmine| AND |Progressive Difficulty:5|",
+            "requires": "|Sayuri| AND |Jasmine| AND |Difficulty 5|",
             "sort-key": "key-4-2-3"
         },
         {
@@ -2839,7 +2839,7 @@
                 "DLC Mission"
             ],
             "region": "Special Mission",
-            "requires": "|@Gessen Academy:5| AND |@Hebijo Academy:5| AND |@Hanzo Academy:5| AND |@Crimson Squad:5| AND |@Mikagura Sisters:3| AND |Progressive Difficulty:5|",
+            "requires": "|@Gessen Academy:5| AND |@Hebijo Academy:5| AND |@Hanzō Academy:5| AND |@Crimson Squad:5| AND |@Mikagura Sisters:3| AND |Difficulty 5|",
             "sort-key": "key-4-2-4"
         },
 		

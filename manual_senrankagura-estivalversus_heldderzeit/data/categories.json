@@ -55,5 +55,14 @@
 	},
 	"Former Hanzō Academy": {
 		"hidden": true
+	},
+	"Combat Items": {
+		"hidden": true
+	},
+	"Mission Clear": {
+		"hidden": true
+	},
+	"Skill": {
+		"hidden": true
 	}
 }

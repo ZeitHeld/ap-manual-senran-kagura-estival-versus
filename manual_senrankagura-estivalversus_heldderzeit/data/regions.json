@@ -13,43 +13,43 @@
         ]
     },
     "Festival Day 2": {
-        "requires": "|Progressive Difficulty:1|",
+        "requires": "|Difficulty 1|",
         "connects_to": [
             "Festival Day 3"
         ]
     },
     "Festival Day 3": {
-        "requires": "|Progressive Difficulty:1|",
+        "requires": "|Difficulty 1|",
         "connects_to": [
             "Festival Day 4"
         ]
     },
     "Festival Day 4": {
-        "requires": "|Progressive Difficulty:2|",
+        "requires": "|Difficulty 2|",
         "connects_to": [
             "Festival Day 5"
         ]
     },
     "Festival Day 5": {
-        "requires": "|Progressive Difficulty:2|",
+        "requires": "|Difficulty 2|",
         "connects_to": [
             "Festival Day 6"
         ]
     },
     "Festival Day 6": {
-        "requires": "|Progressive Difficulty:3|",
+        "requires": "|Difficulty 3|",
         "connects_to": [
             "Festival Day 7"
         ]
     },
     "Festival Day 7": {
-        "requires": "|Progressive Difficulty:3|",
+        "requires": "|Difficulty 3|",
         "connects_to": [
             "Festival Day 8"
         ]
     },
     "Festival Day 8": {
-        "requires": "|Progressive Difficulty:4|"
+        "requires": "|Difficulty 4|"
     },
 
     "Yumi's Heart": {
@@ -84,7 +84,7 @@
         "requires": "|Katsuragi| AND |Festival Platform:20|",
         "starting": true
     },
-    "Yagyu's Heart": {
+    "Yagyū's Heart": {
         "requires": "|Yagyu| AND |Festival Platform:30|",
         "starting": true
     },
@@ -104,11 +104,11 @@
         "requires": "|Imu| AND |Festival Platform:56|",
         "starting": true
     },
-    "Ryobi's Heart": {
+    "Ryōbi's Heart": {
         "requires": "|Ryobi| AND |Festival Platform:58|",
         "starting": true
     },
-    "Ryona's Heart": {
+    "Ryōna's Heart": {
         "requires": "|Ryona| AND |Festival Platform:36|",
         "starting": true
     },
@@ -136,7 +136,7 @@
         "requires": "|Jasmine| AND |Festival Platform:80|",
         "starting": true
     },
-    "Ryoki's Heart": {
+    "Ryōki's Heart": {
         "requires": "|Ryoki| AND |Festival Platform:78|",
         "starting": true
     },
@@ -152,7 +152,7 @@
         "requires": "|Kafuru| AND |Festival Platform:72|",
         "starting": true
     },
-    "Daidoji's Heart": {
+    "Daidōji's Heart": {
         "requires": "|Daidoji| AND |Festival Platform:80|",
         "starting": true
     },
@@ -161,11 +161,11 @@
         "starting": true
     },
     "Dual Bloom": {
-        "requires": "|Progressive Difficulty:4|",
+        "requires": "|Difficulty 4|",
         "starting": true
     },
     "Special Mission": {
-        "requires": "|Progressive Difficulty:4|",
+        "requires": "|Difficulty 4|",
         "starting": true
     },
     "Goal": {
