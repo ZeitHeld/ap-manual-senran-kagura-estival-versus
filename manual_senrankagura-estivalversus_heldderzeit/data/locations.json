@@ -1436,17 +1436,17 @@
 
 
         {
-            "name": "A Resplendent Bride - Clear",
+            "name": "Yumi: A Resplendent Bride - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Yumi's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-1-1"
         },
         {
-            "name": "Daring Mom - Clear",
+            "name": "Yumi: Daring Mom - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1456,7 +1456,7 @@
             "sort-key": "key-2-1-2"
         },
         {
-            "name": "Acting Cute - Clear",
+            "name": "Yumi: Acting Cute - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1466,7 +1466,7 @@
             "sort-key": "key-2-1-3"
         },
         {
-            "name": "A Destined Encounter - Clear",
+            "name": "Yumi: A Destined Encounter - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1476,7 +1476,7 @@
             "sort-key": "key-2-1-4"
         },
         {
-            "name": "Not Too Distant, Not Too Close - Clear",
+            "name": "Yumi: Not Too Distant, Not Too Close - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1486,17 +1486,17 @@
             "sort-key": "key-2-1-5"
         },
         {
-            "name": "Off with the Mask - Clear",
+            "name": "Murakumo: Off with the Mask - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Murakumo's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-2-1"
         },
         {
-            "name": "Emerald Eyes - Clear",
+            "name": "Murakumo: Emerald Eyes - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1506,7 +1506,7 @@
             "sort-key": "key-2-2-2"
         },
         {
-            "name": "I Haven't Done It - Clear",
+            "name": "Murakumo: I Haven't Done It - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1516,7 +1516,7 @@
             "sort-key": "key-2-2-3"
         },
         {
-            "name": "Mute Effort - Clear",
+            "name": "Murakumo: Mute Effort - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1526,7 +1526,7 @@
             "sort-key": "key-2-2-4"
         },
         {
-            "name": "Other Side of Endurance - Clear",
+            "name": "Murakumo: Other Side of Endurance - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1536,17 +1536,17 @@
             "sort-key": "key-2-2-5"
         },
         {
-            "name": "Discipline at the Table - Clear",
+            "name": "Yozakura: Discipline at the Table - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Yozakura's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-3-1"
         },
         {
-            "name": "New Way of Eating - Clear",
+            "name": "Yozakura: New Way of Eating - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1556,7 +1556,7 @@
             "sort-key": "key-2-3-2"
         },
         {
-            "name": "One a Day - Clear",
+            "name": "Yozakura: One a Day - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1566,7 +1566,7 @@
             "sort-key": "key-2-3-3"
         },
         {
-            "name": "Trailblazing a New Frontier - Clear",
+            "name": "Yozakura: Trailblazing a New Frontier - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1576,7 +1576,7 @@
             "sort-key": "key-2-3-4"
         },
         {
-            "name": "Enjoying Food - Clear",
+            "name": "Yozakura: Enjoying Food - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1586,17 +1586,17 @@
             "sort-key": "key-2-3-5"
         },
         {
-            "name": "Ultiate Blogger - Clear",
+            "name": "Shiki: Ultiate Blogger - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Shiki's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-4-1"
         },
         {
-            "name": "Human Combustion - Clear",
+            "name": "Shiki: Human Combustion - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1606,7 +1606,7 @@
             "sort-key": "key-2-4-2"
         },
         {
-            "name": "Sexy Japanese Dance - Clear",
+            "name": "Shiki: Sexy Japanese Dance - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1616,7 +1616,7 @@
             "sort-key": "key-2-4-3"
         },
         {
-            "name": "Maniacal Squid - Clear",
+            "name": "Shiki: Maniacal Squid - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1626,7 +1626,7 @@
             "sort-key": "key-2-4-4"
         },
         {
-            "name": "Revenge of Mirai - Clear",
+            "name": "Shiki: Revenge of Mirai - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1636,17 +1636,17 @@
             "sort-key": "key-2-4-5"
         },
         {
-            "name": "Weird Treats - Clear",
+            "name": "Minori: Weird Treats - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Minori's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-5-1"
         },
         {
-            "name": "Speech Be Spoken - Clear",
+            "name": "Minori: Speech Be Spoken - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1656,7 +1656,7 @@
             "sort-key": "key-2-5-2"
         },
         {
-            "name": "Is That French? - Clear",
+            "name": "Minori: Is That French? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1666,7 +1666,7 @@
             "sort-key": "key-2-5-3"
         },
         {
-            "name": "Funny Treat - Clear",
+            "name": "Minori: Funny Treat - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1676,7 +1676,7 @@
             "sort-key": "key-2-5-4"
         },
         {
-            "name": "Antidote - Clear",
+            "name": "Minori: Antidote - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1686,17 +1686,17 @@
             "sort-key": "key-2-5-5"
         },
         {
-            "name": "Asuka = Hanzō? - Clear",
+            "name": "Asuka: Asuka = Hanzō? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Asuka's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-6-1"
         },
         {
-            "name": "I Love Intensity - Clear",
+            "name": "Asuka: I Love Intensity - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1706,7 +1706,7 @@
             "sort-key": "key-2-6-2"
         },
         {
-            "name": "Imitation - Clear",
+            "name": "Asuka: Imitation - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1716,7 +1716,7 @@
             "sort-key": "key-2-6-3"
         },
         {
-            "name": "A Demon is Coming! - Clear",
+            "name": "Asuka: A Demon is Coming! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1726,7 +1726,7 @@
             "sort-key": "key-2-6-4"
         },
         {
-            "name": "Grandpa's Evil Deed - Clear",
+            "name": "Asuka: Grandpa's Evil Deed - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1736,17 +1736,17 @@
             "sort-key": "key-2-6-5"
         },
         {
-            "name": "Transform, BC Mask! - Clear",
+            "name": "Ikaruga: Transform, BC Mask! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Ikaruga's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-7-1"
         },
         {
-            "name": "Enter the Shipmate Sisters - Clear",
+            "name": "Ikaruga: Enter the Shipmate Sisters - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1756,7 +1756,7 @@
             "sort-key": "key-2-7-2"
         },
         {
-            "name": "Assault of Yumiverine - Clear",
+            "name": "Ikaruga: Assault of Yumiverine - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1766,7 +1766,7 @@
             "sort-key": "key-2-7-3"
         },
         {
-            "name": "Next Gen Hero - Clear",
+            "name": "Ikaruga: Next Gen Hero - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1776,7 +1776,7 @@
             "sort-key": "key-2-7-4"
         },
         {
-            "name": "President Haru's Invasion! - Clear",
+            "name": "Ikaruga: President Haru's Invasion! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1786,17 +1786,17 @@
             "sort-key": "key-2-7-5"
         },
         {
-            "name": "Marshmallow Butt - Clear",
+            "name": "Katsuragi: Marshmallow Butt - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Katsuragi's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-8-1"
         },
         {
-            "name": "Pot Belly - Clear",
+            "name": "Katsuragi: Pot Belly - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1806,7 +1806,7 @@
             "sort-key": "key-2-8-2"
         },
         {
-            "name": "Snuggly Legs - Clear",
+            "name": "Katsuragi: Snuggly Legs - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1816,7 +1816,7 @@
             "sort-key": "key-2-8-3"
         },
         {
-            "name": "Neck, Pits, 'n' Navel - Clear",
+            "name": "Katsuragi: Neck, Pits, 'n' Navel - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1826,7 +1826,7 @@
             "sort-key": "key-2-8-4"
         },
         {
-            "name": "Silky Back - Clear",
+            "name": "Katsuragi: Silky Back - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1842,11 +1842,11 @@
                 "Mission Clear"
             ],
             "region": "Yagyū's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-9-1"
         },
         {
-            "name": "Eternal Rival - Clear",
+            "name": "Yagyū: Eternal Rival - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1856,7 +1856,7 @@
             "sort-key": "key-2-9-2"
         },
         {
-            "name": "Aroma of Sweets - Clear",
+            "name": "Yagyū: Aroma of Sweets - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1866,7 +1866,7 @@
             "sort-key": "key-2-9-3"
         },
         {
-            "name": "Yagyū So Many Hibaris - Clear",
+            "name": "Yagyū: So Many Hibaris - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1876,7 +1876,7 @@
             "sort-key": "key-2-9-4"
         },
         {
-            "name": "Hibariland - Clear",
+            "name": "Yagyū: Hibariland - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1886,17 +1886,17 @@
             "sort-key": "key-2-9-5"
         },
         {
-            "name": "Being a Woman - Clear",
+            "name": "Hibari: Being a Woman - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Hibari's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-10-1"
         },
         {
-            "name": "Through Experience - Clear",
+            "name": "Hibari: Through Experience - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1906,7 +1906,7 @@
             "sort-key": "key-2-10-2"
         },
         {
-            "name": "Being a Woman? - Clear",
+            "name": "Hibari: Being a Woman? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1916,7 +1916,7 @@
             "sort-key": "key-2-10-3"
         },
         {
-            "name": "WO-MAN! WO-MAN! - Clear",
+            "name": "Hibari: WO-MAN! WO-MAN! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1926,7 +1926,7 @@
             "sort-key": "key-2-10-4"
         },
         {
-            "name": "No Turning Back - Clear",
+            "name": "Hibari: No Turning Back - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1936,17 +1936,17 @@
             "sort-key": "key-2-10-5"
         },
         {
-            "name": "Call Me a Hunk - Clear",
+            "name": "Miyabi: Call Me a Hunk - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Miyabi's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-11-1"
         },
         {
-            "name": "Big Announcement - Clear",
+            "name": "Miyabi: Big Announcement - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1956,7 +1956,7 @@
             "sort-key": "key-2-11-2"
         },
         {
-            "name": "Those Who Call me - Clear",
+            "name": "Miyabi: Those Who Call me - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1966,7 +1966,7 @@
             "sort-key": "key-2-11-3"
         },
         {
-            "name": "I Respect You as a Woman - Clear",
+            "name": "Miyabi: I Respect You as a Woman - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1976,7 +1976,7 @@
             "sort-key": "key-2-11-4"
         },
         {
-            "name": "True Hunkitude - Clear",
+            "name": "Miyabi: True Hunkitude - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -1986,17 +1986,17 @@
             "sort-key": "key-2-11-5"
         },
         {
-            "name": "in Search of a Song and Dance - Clear",
+            "name": "Murasaki: In Search of a Song and Dance - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Murasaki's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-12-1"
         },
         {
-            "name": "Baited by the Sound - Clear",
+            "name": "Murasaki: Baited by the Sound - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2006,7 +2006,7 @@
             "sort-key": "key-2-12-2"
         },
         {
-            "name": "Musical - Clear",
+            "name": "Murasaki: Musical - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2016,7 +2016,7 @@
             "sort-key": "key-2-12-3"
         },
         {
-            "name": "Teach Me Love? - Clear",
+            "name": "Murasaki: Teach Me Love? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2026,7 +2026,7 @@
             "sort-key": "key-2-12-4"
         },
         {
-            "name": "Sister Was the Mastermind - Clear",
+            "name": "Murasaki: Sister Was the Mastermind - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2036,17 +2036,17 @@
             "sort-key": "key-2-12-5"
         },
         {
-            "name": "Pro Boxer Imu - Clear",
+            "name": "Imu: Pro Boxer Imu - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Imu's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-13-1"
         },
         {
-            "name": "Sunglasses Incident - Clear",
+            "name": "Imu: Sunglasses Incident - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2056,7 +2056,7 @@
             "sort-key": "key-2-13-2"
         },
         {
-            "name": "Deep-Fried Incident - Clear",
+            "name": "Imu: Deep-Fried Incident - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2066,7 +2066,7 @@
             "sort-key": "key-2-13-3"
         },
         {
-            "name": "See-Through Uniform - Clear",
+            "name": "Imu: See-Through Uniform - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2076,7 +2076,7 @@
             "sort-key": "key-2-13-4"
         },
         {
-            "name": "Long-Standing Grudge - Clear",
+            "name": "Imu: Long-Standing Grudge - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2086,117 +2086,117 @@
             "sort-key": "key-2-13-5"
         },
         {
-            "name": "Age of Big Booty - Clear",
+            "name": "Ryōbi: Age of Big Booty - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryobi's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "region": "Ryōbi's Heart",
+            "requires": "",
             "sort-key": "key-2-14-1"
         },
         {
-            "name": "Legend of the Booty Savior - Clear",
+            "name": "Ryōbi: Legend of the Booty Savior - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryobi's Heart",
+            "region": "Ryōbi's Heart",
             "requires": "|Difficulty 1|",
             "sort-key": "key-2-14-2"
         },
         {
-            "name": "The Scented Booty - Clear",
+            "name": "Ryōbi: The Scented Booty - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryobi's Heart",
+            "region": "Ryōbi's Heart",
             "requires": "|Difficulty 2|",
             "sort-key": "key-2-14-3"
         },
         {
-            "name": "Whisper of the Flat-Chested Demon - Clear",
+            "name": "Ryōbi: Whisper of the Flat-Chested Demon - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryobi's Heart",
+            "region": "Ryōbi's Heart",
             "requires": "|Difficulty 3|",
             "sort-key": "key-2-14-4"
         },
         {
-            "name": "Hyper Booty Senran Kagura - Clear",
+            "name": "Ryōbi: Hyper Booty Senran Kagura - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryobi's Heart",
+            "region": "Ryōbi's Heart",
             "requires": "|Difficulty 4|",
             "sort-key": "key-2-14-5"
         },
         {
-            "name": "Tempura Udon - Clear",
+            "name": "Ryōna: Tempura Udon - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryona's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "region": "Ryōna's Heart",
+            "requires": "",
             "sort-key": "key-2-15-1"
         },
         {
-            "name": "Slippery 'n' Chewy - Clear",
+            "name": "Ryōna: Slippery 'n' Chewy - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryona's Heart",
+            "region": "Ryōna's Heart",
             "requires": "|Difficulty 1|",
             "sort-key": "key-2-15-2"
         },
         {
-            "name": "Lost Cause - Clear",
+            "name": "Ryōna: Lost Cause - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryona's Heart",
+            "region": "Ryōna's Heart",
             "requires": "|Difficulty 2|",
             "sort-key": "key-2-15-3"
         },
         {
-            "name": "That Girl - Clear",
+            "name": "Ryōna: That Girl - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryona's Heart",
+            "region": "Ryōna's Heart",
             "requires": "|Difficulty 3|",
             "sort-key": "key-2-15-4"
         },
         {
-            "name": "Tempura Ninja Art - Clear",
+            "name": "Ryōna: Tempura Ninja Art - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryona's Heart",
+            "region": "Ryōna's Heart",
             "requires": "|Difficulty 4|",
             "sort-key": "key-2-15-5"
         },
         {
-            "name": "I Can't Talk! - Clear",
+            "name": "Homura: I Can't Talk! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Homura's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-16-1"
         },
         {
-            "name": "Charades - Clear",
+            "name": "Homura: Charades - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2206,7 +2206,7 @@
             "sort-key": "key-2-16-2"
         },
         {
-            "name": "Can't Get Through! - Clear",
+            "name": "Homura: Can't Get Through! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2216,7 +2216,7 @@
             "sort-key": "key-2-16-3"
         },
         {
-            "name": "Impersonation of a Yoma? - Clear",
+            "name": "Homura: Impersonation of a Yoma? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2226,7 +2226,7 @@
             "sort-key": "key-2-16-4"
         },
         {
-            "name": "Finally Got Through? - Clear",
+            "name": "Homura: Finally Got Through? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2236,17 +2236,17 @@
             "sort-key": "key-2-16-5"
         },
         {
-            "name": "Shinobi's Clothing - Clear",
+            "name": "Yomi: Shinobi's Clothing - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Yomi's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-17-1"
         },
         {
-            "name": "Useless Padding - Clear",
+            "name": "Yomi: Useless Padding - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2256,7 +2256,7 @@
             "sort-key": "key-2-17-2"
         },
         {
-            "name": "Bad with Numbers? - Clear",
+            "name": "Yomi: Bad with Numbers? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2266,7 +2266,7 @@
             "sort-key": "key-2-17-3"
         },
         {
-            "name": "The Simple Life - Clear",
+            "name": "Yomi: The Simple Life - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2276,7 +2276,7 @@
             "sort-key": "key-2-17-4"
         },
         {
-            "name": "Bandit? - Clear",
+            "name": "Yomi: Bandit? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2286,17 +2286,17 @@
             "sort-key": "key-2-17-5"
         },
         {
-            "name": "In Search for a Place to Nap - Clear",
+            "name": "Hikage: In Search for a Place to Nap - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Hikage's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-18-1"
         },
         {
-            "name": "Don't Think - Clear",
+            "name": "Hikage: Don't Think - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2306,7 +2306,7 @@
             "sort-key": "key-2-18-2"
         },
         {
-            "name": "Yahoo Time - Clear",
+            "name": "Hikage: Yahoo Time - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2316,7 +2316,7 @@
             "sort-key": "key-2-18-3"
         },
         {
-            "name": "Drowsiness to the Max - Clear",
+            "name": "Hikage: Drowsiness to the Max - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2326,7 +2326,7 @@
             "sort-key": "key-2-18-4"
         },
         {
-            "name": "A Place to Nap at Last - Clear",
+            "name": "Hikage: A Place to Nap at Last - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2336,17 +2336,17 @@
             "sort-key": "key-2-18-5"
         },
         {
-            "name": "Pilgrimage Battle - Clear",
+            "name": "Mirai: Pilgrimage Battle - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Mirai's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-19-1"
         },
         {
-            "name": "Glamorous Tri-Stars - Clear",
+            "name": "Mirai: Glamorous Tri-Stars - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2356,7 +2356,7 @@
             "sort-key": "key-2-19-2"
         },
         {
-            "name": "Curly Tri-Stars - Clear",
+            "name": "Mirai: Curly Tri-Stars - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2366,7 +2366,7 @@
             "sort-key": "key-2-19-3"
         },
         {
-            "name": "Rare Item Scramble - Clear",
+            "name": "Mirai: Rare Item Scramble - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2376,7 +2376,7 @@
             "sort-key": "key-2-19-4"
         },
         {
-            "name": "General Angel - Clear",
+            "name": "Mirai: General Angel - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2386,17 +2386,17 @@
             "sort-key": "key-2-19-5"
         },
         {
-            "name": "Mystersious Medicine - Clear",
+            "name": "Haruka: Mystersious Medicine - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Haruka's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-20-1"
         },
         {
-            "name": "Ms. Greedy - Clear",
+            "name": "Haruka: Ms. Greedy - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2406,7 +2406,7 @@
             "sort-key": "key-2-20-2"
         },
         {
-            "name": "Release Your Desire - Clear",
+            "name": "Haruka: Release Your Desire - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2416,7 +2416,7 @@
             "sort-key": "key-2-20-3"
         },
         {
-            "name": "Paradise - Clear",
+            "name": "Haruka: Paradise - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2426,7 +2426,7 @@
             "sort-key": "key-2-20-4"
         },
         {
-            "name": "Tempura? - Clear",
+            "name": "Haruka: Tempura? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2436,17 +2436,17 @@
             "sort-key": "key-2-20-5"
         },
         {
-            "name": "Those Youthful Days - Clear",
+            "name": "Jasmine: Those Youthful Days - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Jasmine's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-21-1"
         },
         {
-            "name": "Play Dead - Clear",
+            "name": "Jasmine: Play Dead - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2456,7 +2456,7 @@
             "sort-key": "key-2-21-2"
         },
         {
-            "name": "Those Who Are Free - Clear",
+            "name": "Jasmine: Those Who Are Free - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2466,7 +2466,7 @@
             "sort-key": "key-2-21-3"
         },
         {
-            "name": "Love Beginning with Pain - Clear",
+            "name": "Jasmine: Love Beginning with Pain - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2476,7 +2476,7 @@
             "sort-key": "key-2-21-4"
         },
         {
-            "name": "A Little Lonely - Clear",
+            "name": "Jasmine: A Little Lonely - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2486,67 +2486,67 @@
             "sort-key": "key-2-21-5"
         },
         {
-            "name": "Endless Urge to Destroy - Clear",
+            "name": "Ryōki: Endless Urge to Destroy - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryoki's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "region": "Ryōki's Heart",
+            "requires": "",
             "sort-key": "key-2-22-1"
         },
         {
-            "name": "Sutras Are Dangerous - Clear",
+            "name": "Ryōki: Sutras Are Dangerous - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryoki's Heart",
+            "region": "Ryōki's Heart",
             "requires": "|Difficulty 1|",
             "sort-key": "key-2-22-2"
         },
         {
-            "name": "Training in That Realm - Clear",
+            "name": "Ryōki: Training in That Realm - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryoki's Heart",
+            "region": "Ryōki's Heart",
             "requires": "|Difficulty 2|",
             "sort-key": "key-2-22-3"
         },
         {
-            "name": "That Realm? - Clear",
+            "name": "Ryōki: That Realm? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryoki's Heart",
+            "region": "Ryōki's Heart",
             "requires": "|Difficulty 3|",
             "sort-key": "key-2-22-4"
         },
         {
-            "name": "So Happy - Clear",
+            "name": "Ryōki: So Happy - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Ryoki's Heart",
+            "region": "Ryōki's Heart",
             "requires": "|Difficulty 4|",
             "sort-key": "key-2-22-5"
         },
         {
-            "name": "Goddamn it! - Clear",
+            "name": "Renka: Goddamn it! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Renka's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-23-1"
         },
         {
-            "name": "Shut-In Consultation - Clear",
+            "name": "Renka: Shut-In Consultation - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2556,7 +2556,7 @@
             "sort-key": "key-2-23-2"
         },
         {
-            "name": "Dieting Consultation - Clear",
+            "name": "Renka: Dieting Consultation - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2566,7 +2566,7 @@
             "sort-key": "key-2-23-3"
         },
         {
-            "name": "Sexual Harassment Consultation - Clear",
+            "name": "Renka: Sexual Harassment Consultation - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2576,7 +2576,7 @@
             "sort-key": "key-2-23-4"
         },
         {
-            "name": "Uproar Consultation - Clear",
+            "name": "Renka: Uproar Consultation - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2586,17 +2586,17 @@
             "sort-key": "key-2-23-5"
         },
         {
-            "name": "KABOOOM! - Clear",
+            "name": "Hanabi: KABOOOM! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Hanabi's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-24-1"
         },
         {
-            "name": "Sticker? Background? - Clear",
+            "name": "Hanabi: Sticker? Background? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2606,7 +2606,7 @@
             "sort-key": "key-2-24-2"
         },
         {
-            "name": "Stop Thinking? - Clear",
+            "name": "Hanabi: Stop Thinking? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2616,7 +2616,7 @@
             "sort-key": "key-2-24-3"
         },
         {
-            "name": "Trigonometric Theorems? - Clear",
+            "name": "Hanabi: Trigonometric Theorems? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2626,7 +2626,7 @@
             "sort-key": "key-2-24-4"
         },
         {
-            "name": "Something Hard? - Clear",
+            "name": "Hanabi: Something Hard? - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2636,17 +2636,17 @@
             "sort-key": "key-2-24-5"
         },
         {
-            "name": "Case Closed! - Clear",
+            "name": "Kafuru: Case Closed! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Kafuru's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-25-1"
         },
         {
-            "name": "Case of The Little Girl - Clear",
+            "name": "Kafuru: Case of The Little Girl - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2656,7 +2656,7 @@
             "sort-key": "key-2-25-2"
         },
         {
-            "name": "Play House - Clear",
+            "name": "Kafuru: Play House - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2666,7 +2666,7 @@
             "sort-key": "key-2-25-3"
         },
         {
-            "name": "You Know, For Kids - Clear",
+            "name": "Kafuru: You Know, For Kids - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2676,7 +2676,7 @@
             "sort-key": "key-2-25-4"
         },
         {
-            "name": "I'll go Obsolete! - Clear",
+            "name": "Kafuru: I'll go Obsolete! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2686,13 +2686,13 @@
             "sort-key": "key-2-25-5"
         },
         {
-            "name": "Ultimate Power - Clear",
+            "name": "Daidōji: Ultimate Power - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
-            "region": "Daidōji: Daidōji's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "region": "Daidōji's Heart",
+            "requires": "",
             "sort-key": "key-2-26-1"
         },
         {
@@ -2736,17 +2736,17 @@
             "sort-key": "key-2-26-5"
         },
         {
-            "name": "A Woman's Decline - Clear",
+            "name": "Rin: A Woman's Decline - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
             ],
             "region": "Rin's Heart",
-            "requires": "|Progressive Difficulty:0|",
+            "requires": "",
             "sort-key": "key-2-27-1"
         },
         {
-            "name": "An Ugly Dispute - Clear",
+            "name": "Rin: An Ugly Dispute - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2756,7 +2756,7 @@
             "sort-key": "key-2-27-2"
         },
         {
-            "name": "I Loathe the Young! - Clear",
+            "name": "Rin: I Loathe the Young! - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2766,7 +2766,7 @@
             "sort-key": "key-2-27-3"
         },
         {
-            "name": "Still Young - Clear",
+            "name": "Rin: Still Young - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
@@ -2776,7 +2776,7 @@
             "sort-key": "key-2-27-4"
         },
         {
-            "name": "Tea Party at the Community Center - Clear",
+            "name": "Rin: Tea Party at the Community Center - Clear",
             "category": [
                 "Shinobi Girl's Heart",
                 "Mission Clear"
