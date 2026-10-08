@@ -64,5 +64,8 @@
 	},
 	"Skill": {
 		"hidden": true
+	},
+	"Story Mode": {
+		"hidden": true
 	}
 }
