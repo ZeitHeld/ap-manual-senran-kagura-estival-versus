@@ -167,7 +167,7 @@
     "Special Mission": {
         "requires": "|Progressive Difficulty:4|",
         "starting": true
-    }
+    },
     "Goal": {
         "starting": true
     }
