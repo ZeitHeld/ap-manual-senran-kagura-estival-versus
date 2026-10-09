@@ -49,7 +49,7 @@
         ]
     },
     "Festival Day 8": {
-        "requires": "|Difficulty 4|"
+        "requires": "|Difficulty 4| AND |Festival Platform:38|"
     },
 
     "Yumi's Heart": {
