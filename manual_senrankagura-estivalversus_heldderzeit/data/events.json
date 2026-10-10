@@ -85,7 +85,7 @@
         },
 		{
             "name": "Difficulty 2",
-            "requires": "|Progressive Difficulty:2|"
+            "requires": "|Progressive Difficulty:2| AND (|Double Jump| OR |Aerial Rave|)"
         },
 		{
             "name": "Difficulty 3",

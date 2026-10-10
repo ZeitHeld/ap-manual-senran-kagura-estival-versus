@@ -75,15 +75,17 @@
 	"Shinobi Heart Unlock": {
 		"yaml_option": ["!platforms"]
 	},
-	"Platform": {
-		"yaml_option": ["platforms"],
-		"hidden": true
+	"Festival Platform": {
+		"yaml_option": ["platforms"]
 	},
 	"Day Pass": {
 		"hidden": true
 	},
 	"Day 1 Pass": {
 		"yaml_option": ["day_one"],
+		"hidden": true
+	},
+	"Difficulty": {
 		"hidden": true
 	}
 }

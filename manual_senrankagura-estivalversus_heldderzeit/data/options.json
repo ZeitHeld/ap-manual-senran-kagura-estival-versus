@@ -70,13 +70,16 @@
         "day_one":{
             "display_name": "Day 1 Pass",
             "description": [
+                "!! CURRENTLY, THIS OPTION WILL CAUSE GENERATION TO FAIL OFTEN !!",
+                "!! ESPECIALLY IF PAIRED WITH \"Festival Platforms\" !!",
                 "Adds a \"Day 1 Pass\" item, required to unlock Day 1."
             ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": false,
             "group": "Randomization Options"
@@ -84,6 +87,7 @@
         "platforms":{
             "display_name": "Festival Platforms",
             "description": [
+                "!! CURRENTLY, THIS OPTION WILL CAUSE GENERATION TO FAIL OFTEN !!",
                 "Include Festival Platforms in pool and Logic.",
                 "If Enabled: Include 80 Festival Platform Items & Locations, required for Logic.",
                 "If Disabled: Most Festival Platform Requirements will be replaced by Special Items. (Day 8 Pass & Shiobi Panties)"
@@ -92,7 +96,8 @@
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": true,
             "group": "Randomization Options"
@@ -107,7 +112,8 @@
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": false,
             "group": "Randomization Options"
@@ -120,7 +126,8 @@
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": false,
             "group": "DLC Options"
@@ -132,7 +139,8 @@
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": false,
             "group": "DLC Options"
@@ -144,7 +152,8 @@
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": false,
             "group": "DLC Options"
@@ -156,7 +165,8 @@
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": false,
             "group": "DLC Options"
@@ -171,7 +181,8 @@
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": false,
             "group": "DLC Options"
@@ -183,7 +194,8 @@
             "visibility": [
                 "simple_ui",
                 "complex_ui",
-                "template"
+                "template",
+                "spoiler"
             ],
             "default": false,
             "group": "DLC Options"

@@ -350,7 +350,8 @@
             "count": 5,
             "name": "Progressive Difficulty",
             "category": [
-                "Progress Unlock"
+                "Progress Unlock",
+                "Difficulty"
             ],
             "progression": true,
             "sort-key": "row-1-0-0"
@@ -360,7 +361,7 @@
             "name": "Festival Platform",
             "category": [
                 "Progress Unlock",
-                "Platform"
+                "Festival Platform"
             ],
             "progression": true,
             "sort-key": "row-1-0-1"
