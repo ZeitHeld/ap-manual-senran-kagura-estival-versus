@@ -67,12 +67,26 @@
         },
 
 
+        "day_one":{
+            "display_name": "Day 1 Pass",
+            "description": [
+                "Adds a \"Day 1 Pass\" item, required to unlock Day 1."
+            ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "Randomization Options"
+        },
         "platforms":{
             "display_name": "Festival Platforms",
             "description": [
                 "Include Festival Platforms in pool and Logic.",
                 "If Enabled: Include 80 Festival Platform Items & Locations, required for Logic.",
-                "If Disabled: Festival Platform Requirements will be replaced by Special Items. (Day 8 Pass & Shiobi Panties)"
+                "If Disabled: Most Festival Platform Requirements will be replaced by Special Items. (Day 8 Pass & Shiobi Panties)"
             ],
             "type": "Toggle",
             "visibility": [

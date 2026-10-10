@@ -80,7 +80,10 @@
 		"hidden": true
 	},
 	"Day Pass": {
-		"yaml_option": ["!platforms"],
+		"hidden": true
+	},
+	"Day 1 Pass": {
+		"yaml_option": ["day_one"],
 		"hidden": true
 	}
 }

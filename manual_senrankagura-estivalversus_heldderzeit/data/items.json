@@ -830,6 +830,77 @@
 
         {
             "count": 1,
+            "name": "Day 1 Pass",
+            "category": [
+                "Day Unlock",
+                "Progress Unlock",
+                "Day 1 Pass"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1-1"
+        },
+        {
+            "count": 1,
+            "name": "Day 2 Pass",
+            "category": [
+                "Day Unlock",
+                "Progress Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1-2"
+        },
+        {
+            "count": 1,
+            "name": "Day 3 Pass",
+            "category": [
+                "Day Unlock",
+                "Progress Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1-3"
+        },
+        {
+            "count": 1,
+            "name": "Day 4 Pass",
+            "category": [
+                "Day Unlock",
+                "Progress Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1-4"
+        },
+        {
+            "count": 1,
+            "name": "Day 5 Pass",
+            "category": [
+                "Day Unlock",
+                "Progress Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1-5"
+        },
+        {
+            "count": 1,
+            "name": "Day 6 Pass",
+            "category": [
+                "Day Unlock",
+                "Progress Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1-6"
+        },
+        {
+            "count": 1,
+            "name": "Day 7 Pass",
+            "category": [
+                "Day Unlock",
+                "Progress Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1-7"
+        },
+        {
+            "count": 1,
             "name": "Day 8 Pass",
             "category": [
                 "Day Unlock",
