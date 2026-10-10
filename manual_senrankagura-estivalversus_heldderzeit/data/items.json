@@ -350,7 +350,7 @@
             "count": 5,
             "name": "Progressive Difficulty",
             "category": [
-                "Misc"
+                "Progress Unlock"
             ],
             "progression": true,
             "sort-key": "row-1-0-0"
@@ -359,7 +359,8 @@
             "count": 80,
             "name": "Festival Platform",
             "category": [
-                "Misc"
+                "Progress Unlock",
+                "Platform"
             ],
             "progression": true,
             "sort-key": "row-1-0-1"
@@ -554,6 +555,292 @@
             "progression": true,
             "sort-key": "row-3-1-0"
         },
+
+        {
+            "count": 1,
+            "name": "Yumi's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-1-1"
+        },
+        {
+            "count": 1,
+            "name": "Murakumo's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-1-2"
+        },
+        {
+            "count": 1,
+            "name": "Yozakura's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-1-3"
+        },
+        {
+            "count": 1,
+            "name": "Shiki's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-1-4"
+        },
+        {
+            "count": 1,
+            "name": "Minori's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-1-5"
+        },
+        {
+            "count": 1,
+            "name": "Daidōji's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-1-6"
+        },
+        {
+            "count": 1,
+            "name": "Asuka's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-2-1"
+        },
+        {
+            "count": 1,
+            "name": "Ikaruga's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-2-2"
+        },
+        {
+            "count": 1,
+            "name": "Katsuragi's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-2-3"
+        },
+        {
+            "count": 1,
+            "name": "Yagyū's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-2-4"
+        },
+        {
+            "count": 1,
+            "name": "Hibari's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-2-5"
+        },
+        {
+            "count": 1,
+            "name": "Rin's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-2-6"
+        },
+        {
+            "count": 1,
+            "name": "Miyabi's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-3-1"
+        },
+        {
+            "count": 1,
+            "name": "Murasaki's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-3-2"
+        },
+        {
+            "count": 1,
+            "name": "Imu's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-3-3"
+        },
+        {
+            "count": 1,
+            "name": "Ryōbi's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-3-4"
+        },
+        {
+            "count": 1,
+            "name": "Ryōna's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-3-5"
+        },
+        {
+            "count": 1,
+            "name": "Homura's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-4-1"
+        },
+        {
+            "count": 1,
+            "name": "Yomi's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-4-2"
+        },
+        {
+            "count": 1,
+            "name": "Hikage's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-0-4-3"
+        },
+        {
+            "count": 1,
+            "name": "Mirai's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-4-4"
+        },
+        {
+            "count": 1,
+            "name": "Haruka's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-0-4-5"
+        },
+        {
+            "count": 1,
+            "name": "Jasmine's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-5-1"
+        },
+        {
+            "count": 1,
+            "name": "Ryōki's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-5-2"
+        },
+        {
+            "count": 1,
+            "name": "Renka's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-5-3"
+        },
+        {
+            "count": 1,
+            "name": "Hanabi's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-5-4"
+        },
+        {
+            "count": 1,
+            "name": "Kafuru's Panties",
+            "category": [
+                "Panty",
+                "Shinobi Heart Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-4-5-5"
+        },
+
+
+        {
+            "count": 1,
+            "name": "Day 8 Pass",
+            "category": [
+                "Day Unlock",
+                "Progress Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1-8"
+        },
+
+
+
         {
             "count": 1,
             "name": "Hanzō Academy's Super-Secret Ninja Art Scroll",

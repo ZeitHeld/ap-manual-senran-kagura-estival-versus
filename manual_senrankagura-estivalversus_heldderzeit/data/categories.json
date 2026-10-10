@@ -67,5 +67,20 @@
 	},
 	"Story Mode": {
 		"hidden": true
+	},
+	"Panty": {
+		"yaml_option": ["!platforms"],
+		"hidden": true
+	},
+	"Shinobi Heart Unlock": {
+		"yaml_option": ["!platforms"]
+	},
+	"Platform": {
+		"yaml_option": ["platforms"],
+		"hidden": true
+	},
+	"Day Pass": {
+		"yaml_option": ["!platforms"],
+		"hidden": true
 	}
 }

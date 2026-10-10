@@ -49,115 +49,115 @@
         ]
     },
     "Festival Day 8": {
-        "requires": "|Difficulty 4| AND |Festival Platform:38|"
+        "requires": "|Difficulty 4| AND (|Festival Platform:38| OR |Day 8 Pass|)"
     },
 
     "Yumi's Heart": {
-        "requires": "|Yumi| AND |Festival Platform:44|",
+        "requires": "|Yumi| AND (|Festival Platform:44| OR |Yumi's Panties|)",
         "starting": true
     },
     "Murakumo's Heart": {
-        "requires": "|Murakumo| AND |Festival Platform:8|",
+        "requires": "|Murakumo| AND (|Festival Platform:8| OR |Murakumo's Panties|)",
         "starting": true
     },
     "Yozakura's Heart": {
-        "requires": "|Yozakura| AND |Festival Platform:50|",
+        "requires": "|Yozakura| AND (|Festival Platform:50| OR |Yozakura's Panties|)",
         "starting": true
     },
     "Shiki's Heart": {
-        "requires": "|Shiki| AND |Festival Platform:24|",
+        "requires": "|Shiki| AND (|Festival Platform:24| OR |Shiki's Panties|)",
         "starting": true
     },
     "Minori's Heart": {
-        "requires": "|Minori| AND |Festival Platform:34|",
+        "requires": "|Minori| AND (|Festival Platform:34| OR |Minori's Panties|)",
         "starting": true
     },
     "Asuka's Heart": {
-        "requires": "|Asuka| AND |Festival Platform:48|",
+        "requires": "|Asuka| AND (|Festival Platform:48| OR |Asuka's Panties|)",
         "starting": true
     },
     "Ikaruga's Heart": {
-        "requires": "|Ikaruga| AND |Festival Platform:12|",
+        "requires": "|Ikaruga| AND (|Festival Platform:12| OR |Ikaruga's Panties|)",
         "starting": true
     },
     "Katsuragi's Heart": {
-        "requires": "|Katsuragi| AND |Festival Platform:20|",
+        "requires": "|Katsuragi| AND (|Festival Platform:20| OR |Katsuragi's Panties|)",
         "starting": true
     },
     "Yagyū's Heart": {
-        "requires": "|Yagyu| AND |Festival Platform:30|",
+        "requires": "|Yagyu| AND (|Festival Platform:30| OR |Yagyu's Panties|)",
         "starting": true
     },
     "Hibari's Heart": {
-        "requires": "|Hibari| AND |Festival Platform:60|",
+        "requires": "|Hibari| AND (|Festival Platform:60| OR |Hibari's Panties|)",
         "starting": true
     },
     "Miyabi's Heart": {
-        "requires": "|Miyabi| AND |Festival Platform:46|",
+        "requires": "|Miyabi| AND (|Festival Platform:46| OR |Miyabi's Panties|)",
         "starting": true
     },
     "Murasaki's Heart": {
-        "requires": "|Murasaki| AND |Festival Platform:10|",
+        "requires": "|Murasaki| AND (|Festival Platform:10| OR |Murasaki's Panties|)",
         "starting": true
     },
     "Imu's Heart": {
-        "requires": "|Imu| AND |Festival Platform:56|",
+        "requires": "|Imu| AND (|Festival Platform:56| OR |Imu's Panties|)",
         "starting": true
     },
     "Ryōbi's Heart": {
-        "requires": "|Ryobi| AND |Festival Platform:58|",
+        "requires": "|Ryobi| AND (|Festival Platform:58| OR |Ryobi's Panties|)",
         "starting": true
     },
     "Ryōna's Heart": {
-        "requires": "|Ryona| AND |Festival Platform:36|",
+        "requires": "|Ryona| AND (|Festival Platform:36| OR |Ryona's Panties|)",
         "starting": true
     },
     "Homura's Heart": {
-        "requires": "|Homura| AND |Festival Platform:6|",
+        "requires": "|Homura| AND (|Festival Platform:6| OR |Homura's Panties|)",
         "starting": true
     },
     "Yomi's Heart": {
-        "requires": "|Yomi| AND |Festival Platform:18|",
+        "requires": "|Yomi| AND (|Festival Platform:18| OR |Yomi's Panties|)",
         "starting": true
     },
     "Hikage's Heart": {
-        "requires": "|Hikage| AND |Festival Platform:22|",
+        "requires": "|Hikage| AND (|Festival Platform:22| OR |Hikage's Panties|)",
         "starting": true
     },
     "Mirai's Heart": {
-        "requires": "|Mirai| AND |Festival Platform:32|",
+        "requires": "|Mirai| AND (|Festival Platform:32| OR |Mirai's Panties|)",
         "starting": true
     },
     "Haruka's Heart": {
-        "requires": "|Haruka| AND |Festival Platform:62|",
+        "requires": "|Haruka| AND (|Festival Platform:62| OR |Haruka's Panties|)",
         "starting": true
     },
     "Jasmine's Heart": {
-        "requires": "|Jasmine| AND |Festival Platform:80|",
+        "requires": "|Jasmine| AND (|Festival Platform:80| OR |Jasmine's Panties|)",
         "starting": true
     },
     "Ryōki's Heart": {
-        "requires": "|Ryoki| AND |Festival Platform:78|",
+        "requires": "|Ryoki| AND (|Festival Platform:78| OR |Ryoki's Panties|)",
         "starting": true
     },
     "Renka's Heart": {
-        "requires": "|Renka| AND |Festival Platform:68|",
+        "requires": "|Renka| AND (|Festival Platform:68| OR |Renka's Panties|)",
         "starting": true
     },
     "Hanabi's Heart": {
-        "requires": "|Hanabi| AND |Festival Platform:70|",
+        "requires": "|Hanabi| AND (|Festival Platform:70| OR |Hanabi's Panties|)",
         "starting": true
     },
     "Kafuru's Heart": {
-        "requires": "|Kafuru| AND |Festival Platform:72|",
+        "requires": "|Kafuru| AND (|Festival Platform:72| OR |Kafuru's Panties|)",
         "starting": true
     },
     "Daidōji's Heart": {
-        "requires": "|Daidoji| AND |Festival Platform:80|",
+        "requires": "|Daidoji| AND |(Festival Platform:80| OR |Daidoji's Panties|)",
         "starting": true
     },
     "Rin's Heart": {
-        "requires": "|Rin| AND |Festival Platform:80|",
+        "requires": "|Rin| AND (|Festival Platform:80| OR |Rin's Panties|)",
         "starting": true
     },
     "Dual Bloom": {

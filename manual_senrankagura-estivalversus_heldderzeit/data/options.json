@@ -66,82 +66,113 @@
             "group": "Example Options"
         },
 
-        "dlc_ikki_tousen":{
-            "display_name": "Ikki Tosen DLC",
-            "description": "Is the Dlc enabled?",
+
+        "platforms":{
+            "display_name": "Festival Platforms",
+            "description": [
+                "Include Festival Platforms in pool and Logic.",
+                "If Enabled: Include 80 Festival Platform Items & Locations, required for Logic.",
+                "If Disabled: Festival Platform Requirements will be replaced by Special Items. (Day 8 Pass & Shiobi Panties)"
+            ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
                 "complex_ui",
                 "template"
             ],
-            "default": false
-        },
-        "dlc_ayame":{
-            "display_name": "Ayame DLC",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": false
-        },
-        "dlc_kagura":{
-            "display_name": "Kagura DLC",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": false
-        },
-        "dlc_naraku":{
-            "display_name": "Naraku DLC",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": false
-        },
-        "dlc_mission_pack":{
-            "display_name": "Mission Pack DLC",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": false
-        },
-        "dlc_dual_bloom":{
-            "display_name": "Dual Blooming Hearts DLC",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
-            "default": false
+            "default": true,
+            "group": "Randomization Options"
         },
         "special_missions":{
             "display_name": "Include Special Missions",
-            "description": "Special Missions are tough challenges",
+            "description": [
+                "Special Missions are tough challenges.",
+                "Required for the Mission Pack DLC."
+        ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
                 "complex_ui",
                 "template"
             ],
-            "default": false
+            "default": false,
+            "group": "Randomization Options"
+        },
+
+        "dlc_ikki_tousen":{
+            "display_name": "Ikki Tōsen DLC",
+            "description": "Adds in 3 Playable Characters from Ikki Tōsen into the Item Pool.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "DLC Options"
+        },
+        "dlc_ayame":{
+            "display_name": "Ayame DLC",
+            "description": "Adds in Ayame as a Playable Character into the Item Pool.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "DLC Options"
+        },
+        "dlc_kagura":{
+            "display_name": "Kagura DLC",
+            "description": "Adds in True Kagura as a Playable Character into the Item Pool.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "DLC Options"
+        },
+        "dlc_naraku":{
+            "display_name": "Naraku DLC",
+            "description": "Adds in Naraku as a Playable Character into the Item Pool.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "DLC Options"
+        },
+        "dlc_mission_pack":{
+            "display_name": "Mission Pack DLC",
+            "description": [
+                "Adds in more Special Missions from the \"Mission Pack\" DLC.",
+                "DOES NOTHING, IF \"Include Special Missions\" IS DISABLED"
+            ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "DLC Options"
+        },
+        "dlc_dual_bloom":{
+            "display_name": "Dual Blooming Hearts DLC",
+            "description": "Adds in more, team based Missions as Locations.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template"
+            ],
+            "default": false,
+            "group": "DLC Options"
         }
     }
 
