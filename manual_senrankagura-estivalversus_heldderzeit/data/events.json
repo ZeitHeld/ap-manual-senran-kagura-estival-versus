@@ -82,6 +82,10 @@
 		{
             "name": "Usable Arts",
             "requires": "(|Frantic| OR |Shinobi Transformation|) AND (|L1 Arts| OR |L2 Arts| OR |Ultimate Arts|)"
+        },
+		{
+            "name": "Any Usable Arts",
+            "requires": "(|Frantic| OR |Shinobi Transformation| OR (|Sayuri| OR |Jasmine| OR |@Ikki Tosen|)) AND (|L1 Arts| OR |L2 Arts| OR |Ultimate Arts|)"
         }
     ]
 }
