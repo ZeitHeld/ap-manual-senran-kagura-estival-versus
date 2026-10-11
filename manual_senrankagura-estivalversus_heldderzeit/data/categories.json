@@ -69,16 +69,14 @@
 		"hidden": true
 	},
 	"Panty": {
-		"yaml_option": ["!platforms"],
+		"yaml_option": ["shinobi_panties"],
 		"hidden": true
 	},
 	"Shinobi Heart Unlock": {
-		"yaml_option": ["!platforms"]
 	},
 	"Festival Platform": {
-		"yaml_option": ["platforms"]
 	},
-	"Day Pass": {
+	"Day Unlock": {
 		"hidden": true
 	},
 	"Day 1 Pass": {
@@ -86,6 +84,10 @@
 		"hidden": true
 	},
 	"Difficulty": {
+		"hidden": true
+	},
+	"Seal Trap": {
+		"yaml_option": ["trap_seal"],
 		"hidden": true
 	}
 }

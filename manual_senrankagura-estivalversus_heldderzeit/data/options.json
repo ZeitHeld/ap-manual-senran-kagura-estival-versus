@@ -67,13 +67,13 @@
         },
 
 
-        "day_one":{
-            "display_name": "Day 1 Pass",
+        
+        "platforms_goal":{
+            "display_name": "Require Platforms for Goal",
             "description": [
-                "!! CURRENTLY, THIS OPTION WILL CAUSE GENERATION TO FAIL OFTEN !!",
-                "!! ESPECIALLY IF PAIRED WITH \"Festival Platforms\" !!",
-                "Adds a \"Day 1 Pass\" item, required to unlock Day 1."
-            ],
+                "Option to let Festival Platforms to be required to Goal, if not already included.",
+                "Amount determined by the option: \"Required Platforms for Goal Amount\""
+        ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
@@ -82,26 +82,32 @@
                 "spoiler"
             ],
             "default": false,
-            "group": "Randomization Options"
+            "group": "Goal Options"
         },
-        "platforms":{
-            "display_name": "Festival Platforms",
+        "platforms_goal_count":{
+            "display_name": "Required Platforms for Goal Amount",
             "description": [
-                "!! CURRENTLY, THIS OPTION WILL CAUSE GENERATION TO FAIL OFTEN !!",
-                "Include Festival Platforms in pool and Logic.",
-                "If Enabled: Include 80 Festival Platform Items & Locations, required for Logic.",
-                "If Disabled: Most Festival Platform Requirements will be replaced by Special Items. (Day 8 Pass & Shiobi Panties)"
-            ],
-            "type": "Toggle",
+                "Special Missions are tough challenges.",
+                "Does nothing if \"Require Platforms for Goal\" is disbaled."
+        ],
+            "type": "Range",
             "visibility": [
                 "simple_ui",
                 "complex_ui",
                 "template",
                 "spoiler"
             ],
-            "default": true,
-            "group": "Randomization Options"
+            "range_start": 5,
+            "default": 60,
+            "range_end": 80,
+            "values": {
+                "minimum": 5,
+                "half": 40,
+                "maximum": 80
+            },
+            "group": "Goal Options"
         },
+
         "special_missions":{
             "display_name": "Include Special Missions",
             "description": [
@@ -117,6 +123,39 @@
             ],
             "default": false,
             "group": "Randomization Options"
+        },
+        "shinobi_panties":{
+            "display_name": "Shinobi Panties",
+            "description": [
+                "Adds in Panties for every (base) Shinobi.",
+                "If Enabled: The Panties will be an alternative requirement to access the Shinobi Girl's Heart Missions."
+        ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": true,
+            "group": "Randomization Options"
+        },
+
+        "trap_seal":{
+            "display_name": "Seal Traps",
+            "description": [
+                "Seal Traps prevent the user from using any Secret Ninja-Arts or Shinobi Transformations.",
+                "The Trap is active for the duration of the current mission, or next, if not in any."
+            ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Trap Options"
         },
 
         "dlc_ikki_tousen":{

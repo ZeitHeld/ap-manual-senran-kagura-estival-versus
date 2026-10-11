@@ -7,49 +7,49 @@
         "starting": true
     },
     "Festival Day 1": {
-        "requires": "{YamlDisabled(day_one)} OR ({YamlEnabled(day_one)} AND |Day 1 Pass|)",
+        "requires": "",
         "connects_to": [
             "Festival Day 2"
         ]
     },
     "Festival Day 2": {
-        "requires": "|Difficulty 1| AND |Day 2 Pass|",
+        "requires": "|Difficulty 1|",
         "connects_to": [
             "Festival Day 3"
         ]
     },
     "Festival Day 3": {
-        "requires": "|Difficulty 1| AND |Day 3 Pass|",
+        "requires": "|Difficulty 1|",
         "connects_to": [
             "Festival Day 4"
         ]
     },
     "Festival Day 4": {
-        "requires": "|Difficulty 2| AND |Day 4 Pass|",
+        "requires": "|Difficulty 2|",
         "connects_to": [
             "Festival Day 5"
         ]
     },
     "Festival Day 5": {
-        "requires": "|Difficulty 2| AND |Day 5 Pass|",
+        "requires": "|Difficulty 2|",
         "connects_to": [
             "Festival Day 6"
         ]
     },
     "Festival Day 6": {
-        "requires": "|Difficulty 3| AND |Day 6 Pass|",
+        "requires": "|Difficulty 3|",
         "connects_to": [
             "Festival Day 7"
         ]
     },
     "Festival Day 7": {
-        "requires": "|Difficulty 3| AND |Day 7 Pass|",
+        "requires": "|Difficulty 3|",
         "connects_to": [
             "Festival Day 8"
         ]
     },
     "Festival Day 8": {
-        "requires": "|Difficulty 4| AND |Day 8 Pass| AND ({YamlEnabled(platforms)} AND |Festival Platform:38|)"
+        "requires": "|Difficulty 4| AND |Festival Platform:38|"
     },
 
     "Shinobi Hearts": {
