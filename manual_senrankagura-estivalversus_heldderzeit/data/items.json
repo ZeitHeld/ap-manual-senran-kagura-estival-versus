@@ -363,7 +363,7 @@
                 "Progress Unlock",
                 "Festival Platform"
             ],
-            "progression": true,
+            "progression_skip_balancing": true,
             "sort-key": "row-1-0-1"
         },
         {
