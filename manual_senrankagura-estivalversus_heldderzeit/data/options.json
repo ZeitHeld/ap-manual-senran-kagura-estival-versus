@@ -108,6 +108,23 @@
             "group": "Goal Options"
         },
 
+        "fragile_clothes":{
+            "display_name": "Fragile Clothing",
+            "description": [
+                "Whenever your clothes tear for the first time, you fail the mission.",
+                "Use this option only if you feel confident in your skills."
+        ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Gameplay Options"
+        },
+
         "special_missions":{
             "display_name": "Include Special Missions",
             "description": [
