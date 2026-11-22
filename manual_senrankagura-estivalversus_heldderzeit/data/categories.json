@@ -76,6 +76,9 @@
 	},
 	"Festival Platform": {
 	},
+	"Platform": {
+		"hidden": true
+	},
 	"Day Unlock": {
 		"hidden": true
 	},

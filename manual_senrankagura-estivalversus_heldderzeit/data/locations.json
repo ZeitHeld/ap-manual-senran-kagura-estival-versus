@@ -869,7 +869,7 @@
                 "Festival Platform"
             ],
             "region": "Festival Day 3",
-            "requires": "|Yomi|",
+            "requires": "|Yomi| AND |Can Wallrun|",
             "hint_entrance": "Day 3",
             "sort-key": "key-1-4-3-1"
         },
@@ -880,7 +880,7 @@
                 "Festival Platform"
             ],
             "region": "Festival Day 3",
-            "requires": "|Yomi|",
+            "requires": "|Yomi| AND |Can Wallrun|",
             "hint_entrance": "Day 3",
             "sort-key": "key-1-4-3-2"
         },
@@ -891,18 +891,18 @@
                 "Festival Platform"
             ],
             "region": "Festival Day 3",
-            "requires": "|Yomi|",
+            "requires": "|Yomi| AND |Can Wallrun|",
             "hint_entrance": "Day 3",
             "sort-key": "key-1-4-3-3"
         },
         {
-            "name": "The Existence of Emotions - Festival Platform 4",
+            "name": "The Existence of Emotions - Festival Platform in Alleyway Corner Dead End near Start",
             "category": [
                 "Story Mode",
                 "Festival Platform"
             ],
             "region": "Festival Day 3",
-            "requires": "|Yomi|",
+            "requires": "|Yomi| AND |Can Wallrun|",
             "hint_entrance": "Day 3",
             "sort-key": "key-1-4-3-4"
         },
@@ -913,7 +913,7 @@
                 "Festival Platform"
             ],
             "region": "Festival Day 3",
-            "requires": "|Yomi|",
+            "requires": "|Yomi| AND |Can Wallrun|",
             "hint_entrance": "Day 3",
             "sort-key": "key-1-4-3-5"
         },

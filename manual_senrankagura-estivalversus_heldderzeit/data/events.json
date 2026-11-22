@@ -72,8 +72,10 @@
 
 
         {
-            "name": "Frantic",
-            "requires": "|Frantic Mode| AND |Guard|"
+            "name": "Can Frantic",
+            "requires": "|Frantic Mode| AND |Guard|",
+            "category": "#Capabilities",
+            "visible": true
         },
 		{
             "name": "All Scrolls",
@@ -101,11 +103,17 @@
         },
 		{
             "name": "Usable Arts",
-            "requires": "(|Frantic| OR |Shinobi Transformation|) AND (|L1 Arts| OR |L2 Arts| OR |Ultimate Arts|)"
+            "requires": "(|Can Frantic| OR |Shinobi Transformation|) AND (|L1 Arts| OR |L2 Arts| OR |Ultimate Arts|)"
         },
 		{
             "name": "Any Usable Arts",
-            "requires": "(|Frantic| OR |Shinobi Transformation| OR (|Sayuri| OR |Jasmine| OR |@Ikki Tosen|)) AND (|L1 Arts| OR |L2 Arts| OR |Ultimate Arts|)"
+            "requires": "(|Can Frantic| OR |Shinobi Transformation| OR (|Sayuri| OR |Jasmine| OR |@Ikki Tosen|)) AND (|L1 Arts| OR |L2 Arts| OR |Ultimate Arts|)"
+        },
+        {
+            "name": "Can Wallrun",
+            "requires": "|Aerial Rave|",
+            "category": "#Capabilities",
+            "visible": true
         }
     ]
 }
