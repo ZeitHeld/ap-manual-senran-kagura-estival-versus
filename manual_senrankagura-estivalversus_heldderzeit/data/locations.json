@@ -1050,7 +1050,7 @@
             "sort-key": "key-1-5-4-1"
         },
         {
-            "name": "She Belongs to No One - Festival Platform behind House with Pots",
+            "name": "She Belongs to No One - Blue Festival Platform behind House with Pots",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1061,7 +1061,7 @@
             "sort-key": "key-1-5-5-1"
         },
         {
-            "name": "She Belongs to No One - Festival Platform between Houses (Town)",
+            "name": "She Belongs to No One - Blue Festival Platform between Houses (Town)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1072,7 +1072,7 @@
             "sort-key": "key-1-5-5-2"
         },
         {
-            "name": "She Belongs to No One - Festival Platform between Houses (Field)",
+            "name": "She Belongs to No One - Blue Festival Platform between Houses (Field)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1083,7 +1083,7 @@
             "sort-key": "key-1-5-5-3"
         },
         {
-            "name": "When Hibari Gets Mad - Festival Platform Left from Shrine",
+            "name": "When Hibari Gets Mad - Yellow Festival Platform Left from Shrine",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1094,7 +1094,7 @@
             "sort-key": "key-1-5-6-1"
         },
         {
-            "name": "When Hibari Gets Mad - Festival Platform Right from Shrine",
+            "name": "When Hibari Gets Mad - Yellow Festival Platform Right from Shrine",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1105,7 +1105,7 @@
             "sort-key": "key-1-5-6-2"
         },
         {
-            "name": "When Hibari Gets Mad - Festival Platform behind Small Buildings",
+            "name": "When Hibari Gets Mad - Red Festival Platform behind Small Buildings",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1116,7 +1116,7 @@
             "sort-key": "key-1-5-6-3"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Festival Platform in Starting Area",
+            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform in Starting Area",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1127,7 +1127,7 @@
             "sort-key": "key-1-6-1-1"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Festival Platform on Second Floor",
+            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform on Second Floor",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1138,7 +1138,7 @@
             "sort-key": "key-1-6-1-2"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Festival Platform on Third Floor",
+            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform on Third Floor",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1149,7 +1149,7 @@
             "sort-key": "key-1-6-1-3"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Festival Platform on Final Floor Entrance",
+            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform on Final Floor Entrance",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1160,7 +1160,7 @@
             "sort-key": "key-1-6-1-4"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Festival Platform on Final Floor behind Boulder",
+            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform on Final Floor behind Boulder",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1226,7 +1226,7 @@
             "sort-key": "key-1-6-3-5"
         },
         {
-            "name": "Mama - Festival Platform past Red Bridge",
+            "name": "Mama - Yellow Festival Platform past Red Bridge",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1237,29 +1237,29 @@
             "sort-key": "key-1-6-4-1"
         },
         {
-            "name": "Mama - Festival Platform in Left Alleyway",
+            "name": "Mama - Green Festival Platform in Left Alleyway",
             "category": [
                 "Story Mode",
                 "Festival Platform"
             ],
             "region": "Festival Day 5",
-            "requires": "",
+            "requires": "|Double Jump| OR |Can Wallrun|",
             "hint_entrance": "Day 5",
             "sort-key": "key-1-6-4-2"
         },
         {
-            "name": "Mama - Festival Platform in Right Alleyway",
+            "name": "Mama - Green Festival Platform in Right Alleyway",
             "category": [
                 "Story Mode",
                 "Festival Platform"
             ],
             "region": "Festival Day 5",
-            "requires": "",
+            "requires": "|Double Jump| OR |Can Wallrun|",
             "hint_entrance": "Day 5",
             "sort-key": "key-1-6-4-3"
         },
         {
-            "name": "Leaving with Love - Festival Platform near Entrance",
+            "name": "Leaving with Love - Purple Festival Platform near Entrance",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1270,7 +1270,7 @@
             "sort-key": "key-1-6-6-1"
         },
         {
-            "name": "Leaving with Love - Festival Platform under Bridge",
+            "name": "Leaving with Love - Purple Festival Platform under Bridge",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1281,7 +1281,7 @@
             "sort-key": "key-1-6-6-2"
         },
         {
-            "name": "Leaving with Love - Festival Platform on Forest Pathway",
+            "name": "Leaving with Love - Purple Festival Platform on Forest Pathway",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1292,7 +1292,7 @@
             "sort-key": "key-1-6-6-3"
         },
         {
-            "name": "Leaving with Love - Festival Platform at Temple near Entrance",
+            "name": "Leaving with Love - Purple Festival Platform at Temple near Entrance",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1303,7 +1303,7 @@
             "sort-key": "key-1-6-6-4"
         },
         {
-            "name": "Leaving with Love - Festival Platform at Temple near Forest",
+            "name": "Leaving with Love - Purple Festival Platform at Temple near Forest",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1314,7 +1314,7 @@
             "sort-key": "key-1-6-6-5"
         },
         {
-            "name": "Ice Queen - Festival Platform at Large Street near Start",
+            "name": "Ice Queen - Blue Festival Platform at Large Street near Start",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1325,7 +1325,7 @@
             "sort-key": "key-1-7-2-1"
         },
         {
-            "name": "Ice Queen - Festival Platform in Alleyway Corner",
+            "name": "Ice Queen - Blue Festival Platform at Side of Ending Street",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1336,7 +1336,7 @@
             "sort-key": "key-1-7-2-2"
         },
         {
-            "name": "Ice Queen - Festival Platform at Side of Ending Street",
+            "name": "Ice Queen - Green Festival Platform in Alleyway Corner",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1347,13 +1347,13 @@
             "sort-key": "key-1-7-2-3"
         },
         {
-            "name": "Ice Queen - Festival Platform on Short Roof",
+            "name": "Ice Queen - Green Festival Platform on Short Roof",
             "category": [
                 "Story Mode",
                 "Festival Platform"
             ],
             "region": "Festival Day 6",
-            "requires": "",
+            "requires": "|Can Wallrun|",
             "hint_entrance": "Day 6",
             "sort-key": "key-1-7-2-4"
         },
@@ -1369,7 +1369,7 @@
             "sort-key": "key-1-7-3-1"
         },
         {
-            "name": "The Egg Rice Bowl - Festival Platform",
+            "name": "The Egg Rice Bowl - Yellow Festival Platform",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1435,7 +1435,7 @@
             "sort-key": "key-1-8-2-1"
         },
         {
-            "name": "Hide 'n' Seek - Festival Platform behind Left Goal",
+            "name": "Hide 'n' Seek - Green Festival Platform behind Left Goal",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1446,7 +1446,7 @@
             "sort-key": "key-1-8-4-1"
         },
         {
-            "name": "Hide 'n' Seek - Festival Platform behind Right Goal",
+            "name": "Hide 'n' Seek - Green Festival Platform behind Right Goal",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1457,7 +1457,7 @@
             "sort-key": "key-1-8-4-2"
         },
         {
-            "name": "Hide 'n' Seek - Festival Platform aside Running Track near Field",
+            "name": "Hide 'n' Seek - Green Festival Platform aside Running Track near Field",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1468,7 +1468,7 @@
             "sort-key": "key-1-8-4-3"
         },
         {
-            "name": "Hide 'n' Seek - Festival Platform aside Running Track near School",
+            "name": "Hide 'n' Seek - Green Festival Platform aside Running Track near School",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1479,7 +1479,7 @@
             "sort-key": "key-1-8-4-4"
         },
         {
-            "name": "Thank You - Festival Platform behind Houses (Park)",
+            "name": "Thank You - Red Festival Platform behind Houses (Park)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1490,7 +1490,7 @@
             "sort-key": "key-1-8-7-1"
         },
         {
-            "name": "Thank You - Festival Platform behind Houses (Painting)",
+            "name": "Thank You - Red Festival Platform behind Houses (Painting)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1501,7 +1501,7 @@
             "sort-key": "key-1-8-7-2"
         },
         {
-            "name": "Even If It's Just for Us - Festival Platform Left behind Slide",
+            "name": "Even If It's Just for Us - Blue Festival Platform Left behind Slide",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1512,7 +1512,7 @@
             "sort-key": "key-1-8-8-1"
         },
         {
-            "name": "Even If It's Just for Us - Festival Platform Right behind Slide",
+            "name": "Even If It's Just for Us - Blue Festival Platform Right behind Slide",
             "category": [
                 "Story Mode",
                 "Festival Platform"
