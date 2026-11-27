@@ -2,7 +2,7 @@
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
     "data": [
         {
-            "name": "The Start of Summer - Clear",
+            "name": "Eve Festival: The Start of Summer - Ryōbi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -14,7 +14,7 @@
             "sort-key": "key-0-1-1"
         },
         {
-            "name": "Guided by the Halo - Clear",
+            "name": "Eve Festival: Guided by the Halo - Yumi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -27,7 +27,7 @@
             "sort-key": "key-0-1-2"
         },
         {
-            "name": "Guided by the Forehead - Clear",
+            "name": "Eve Festival: Guided by the Forehead - Miyabi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -39,7 +39,7 @@
             "sort-key": "key-0-1-3"
         },
         {
-            "name": "Guided by the Boob Goddess - Clear",
+            "name": "Eve Festival: Guided by the Boob Goddess - Asuka Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -52,7 +52,7 @@
             "sort-key": "key-0-1-4"
         },
         {
-            "name": "Guided by Wild Grass - Clear",
+            "name": "Eve Festival: Guided by Wild Grass - Homura Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -65,7 +65,7 @@
             "sort-key": "key-0-1-5"
         },
         {
-            "name": "Kagura Millennium Festival - Clear",
+            "name": "Eve Festival: Kagura Millennium Festival - Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -78,7 +78,7 @@
             "sort-key": "key-0-1-6"
         },
         {
-            "name": "The Sister's Reunion - Clear",
+            "name": "Day 1: The Sister's Reunion - Ryōna Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -90,7 +90,7 @@
             "sort-key": "key-0-2-1"
         },
         {
-            "name": "Dancing in the Summer Sun - Clear",
+            "name": "Day 1: Dancing in the Summer Sun - Yomi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -102,7 +102,7 @@
             "sort-key": "key-0-2-2"
         },
         {
-            "name": "Summer Makes Me Crazy - Clear",
+            "name": "Day 1: Summer Makes Me Crazy - Ikaruga Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -114,7 +114,7 @@
             "sort-key": "key-0-2-3"
         },
         {
-            "name": "Platforms and Problems - Clear",
+            "name": "Day 1: Platforms and Problems - Shiki Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -126,7 +126,7 @@
             "sort-key": "key-0-2-4"
         },
         {
-            "name": "How to Enjoy Summer - Clear",
+            "name": "Day 1: How to Enjoy Summer - Yozakura Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -138,7 +138,7 @@
             "sort-key": "key-0-2-5"
         },
         {
-            "name": "The Undie-Eating Contest - Clear",
+            "name": "Day 2: The Undie-Eating Contest - Haruka Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -150,7 +150,7 @@
             "sort-key": "key-0-3-1"
         },
         {
-            "name": "The Grand Grope-n-Grapple - Clear",
+            "name": "Day 2: The Grand Grope-n-Grapple - Katsuragi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -162,7 +162,7 @@
             "sort-key": "key-0-3-2"
         },
         {
-            "name": "Butt Splitting? - Clear",
+            "name": "Day 2: Butt Splitting? - Minori Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -174,7 +174,7 @@
             "sort-key": "key-0-3-3"
         },
         {
-            "name": "Strip-n-Rip - Clear",
+            "name": "Day 2: Strip-n-Rip - Murasaki Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -186,7 +186,7 @@
             "sort-key": "key-0-3-4"
         },
         {
-            "name": "The Mikagura Sisters - Clear",
+            "name": "Day 2: The Mikagura Sisters - Hanabi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -198,7 +198,7 @@
             "sort-key": "key-0-3-5"
         },
         {
-            "name": "Those Who Hesitate - Clear",
+            "name": "Day 2: Those Who Hesitate - Kafuru Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -210,7 +210,7 @@
             "sort-key": "key-0-3-6"
         },
         {
-            "name": "A Mother's Bond - Clear",
+            "name": "Day 3: A Mother's Bond - Imu Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -222,7 +222,7 @@
             "sort-key": "key-0-4-1"
         },
         {
-            "name": "Determined Decree - Clear",
+            "name": "Day 3: Determined Decree - Katsuragi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -234,7 +234,7 @@
             "sort-key": "key-0-4-2"
         },
         {
-            "name": "The Existence of Emotions - Clear",
+            "name": "Day 3: The Existence of Emotions - Hikage Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -246,7 +246,7 @@
             "sort-key": "key-0-4-3"
         },
         {
-            "name": "A Small Wisecrack - Clear",
+            "name": "Day 3: A Small Wisecrack - Mirai Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -258,7 +258,7 @@
             "sort-key": "key-0-4-4"
         },
         {
-            "name": "Reunion with Kurokage - Clear",
+            "name": "Day 3: Reunion with Kurokage - Yumi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -270,7 +270,7 @@
             "sort-key": "key-0-4-5"
         },
         {
-            "name": "Not Coming Out - Clear",
+            "name": "Day 4: Not Coming Out - Mirai Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -282,7 +282,7 @@
             "sort-key": "key-0-5-1"
         },
         {
-            "name": "Number One Fan - Clear",
+            "name": "Day 4: Number One Fan - Murasaki Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -294,7 +294,7 @@
             "sort-key": "key-0-5-2"
         },
         {
-            "name": "Slippery Oil - Clear",
+            "name": "Day 4: Slippery Oil - Hibari Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -306,7 +306,7 @@
             "sort-key": "key-0-5-3"
         },
         {
-            "name": "Haruka the Technician - Clear",
+            "name": "Day 4: Haruka the Technician - Haruka Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -318,7 +318,7 @@
             "sort-key": "key-0-5-4"
         },
         {
-            "name": "She Belongs to No One - Clear",
+            "name": "Day 4: She Belongs to No One - Yagyū Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -330,7 +330,7 @@
             "sort-key": "key-0-5-5"
         },
         {
-            "name": "When Hibari Gets Mad - Clear",
+            "name": "Day 4: When Hibari Gets Mad - Hibari Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -342,7 +342,7 @@
             "sort-key": "key-0-5-6"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Clear",
+            "name": "Day 5: The Fragrance of the Bourgeoisie - Yomi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -354,7 +354,7 @@
             "sort-key": "key-0-6-1"
         },
         {
-            "name": "The Once-in-a-Millennium Festival - Clear",
+            "name": "Day 5: The Once-in-a-Millennium Festival - Ikaruga Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -366,7 +366,7 @@
             "sort-key": "key-0-6-2"
         },
         {
-            "name": "Last Words - Clear",
+            "name": "Day 5: Last Words - Ryōbi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -378,7 +378,7 @@
             "sort-key": "key-0-6-3"
         },
         {
-            "name": "Mama - Clear",
+            "name": "Day 5: Mama - Miyabi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -390,7 +390,7 @@
             "sort-key": "key-0-6-4"
         },
         {
-            "name": "Important Job - Clear",
+            "name": "Day 5: Important Job - Murakumo Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -402,7 +402,7 @@
             "sort-key": "key-0-6-5"
         },
         {
-            "name": "Leaving with Love - Clear",
+            "name": "Day 5: Leaving with Love - Yagyū Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -414,7 +414,7 @@
             "sort-key": "key-0-6-6"
         },
         {
-            "name": "The Sister's Lie - Clear",
+            "name": "Day 5: The Sister's Lie - Hanabi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -426,7 +426,7 @@
             "sort-key": "key-0-6-7"
         },
         {
-            "name": "To See That Girl - Clear",
+            "name": "Day 6: To See That Girl - Kafuru Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -438,7 +438,7 @@
             "sort-key": "key-0-7-1"
         },
         {
-            "name": "Ice Queen - Clear",
+            "name": "Day 6: Ice Queen - Hikage Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -450,7 +450,7 @@
             "sort-key": "key-0-7-2"
         },
         {
-            "name": "Whenever - Clear",
+            "name": "Day 6: Whenever - Imu Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -462,7 +462,7 @@
             "sort-key": "key-0-7-3"
         },
         {
-            "name": "The Egg Rice Bowl - Clear",
+            "name": "Day 6: The Egg Rice Bowl - Miyabi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -474,7 +474,7 @@
             "sort-key": "key-0-7-4"
         },
         {
-            "name": "At Any Cost - Clear",
+            "name": "Day 6: At Any Cost - Asuka Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -486,7 +486,7 @@
             "sort-key": "key-0-7-5"
         },
         {
-            "name": "Any Face - Clear",
+            "name": "Day 7: Any Face - Murakumo Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -498,7 +498,7 @@
             "sort-key": "key-0-8-1"
         },
         {
-            "name": "La Ninja Japonaise - Clear",
+            "name": "Day 7: La Ninja Japonaise - Shiki Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -510,7 +510,7 @@
             "sort-key": "key-0-8-2"
         },
         {
-            "name": "Super Dish Cooking - Clear",
+            "name": "Day 7: Super Dish Cooking - Yozakura Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -522,7 +522,7 @@
             "sort-key": "key-0-8-3"
         },
         {
-            "name": "Hide 'n' Seek - Clear",
+            "name": "Day 7: Hide 'n' Seek - Minori Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -534,7 +534,7 @@
             "sort-key": "key-0-8-4"
         },
         {
-            "name": "Beautiful Moon - Clear",
+            "name": "Day 7: Beautiful Moon - Yumi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -546,7 +546,7 @@
             "sort-key": "key-0-8-5"
         },
         {
-            "name": "What Needs to Be Said - Clear",
+            "name": "Day 7: What Needs to Be Said - Ryōna Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -558,7 +558,7 @@
             "sort-key": "key-0-8-6"
         },
         {
-            "name": "Thank You - Clear",
+            "name": "Day 7: Thank You - Ryōbi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -570,7 +570,7 @@
             "sort-key": "key-0-8-7"
         },
         {
-            "name": "Even If It's Just for Us - Clear",
+            "name": "Day 7: Even If It's Just for Us - Kafuru Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -582,7 +582,7 @@
             "sort-key": "key-0-8-8"
         },
         {
-            "name": "Jasmine - Clear",
+            "name": "Day 8: Jasmine - Jasmine Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -594,7 +594,7 @@
             "sort-key": "key-0-9-1"
         },
         {
-            "name": "Power of a Former Kagura - Clear",
+            "name": "Day 8: Power of a Former Kagura - Jasmine Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -606,7 +606,7 @@
             "sort-key": "key-0-9-2"
         },
         {
-            "name": "The Depth of Emotions - Clear",
+            "name": "Day 8: The Depth of Emotions - Jasmine Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -618,7 +618,7 @@
             "sort-key": "key-0-9-3"
         },
         {
-            "name": "Becoming a Kagura - Clear",
+            "name": "Day 8: Becoming a Kagura - Renka Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -630,7 +630,7 @@
             "sort-key": "key-0-9-4"
         },
         {
-            "name": "Tolerant Evil - Clear",
+            "name": "Day 8: Tolerant Evil - Kafuru Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -642,7 +642,7 @@
             "sort-key": "key-0-9-5"
         },
         {
-            "name": "Countless Losses - Clear",
+            "name": "Day 8: Countless Losses - Asuka Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -654,7 +654,7 @@
             "sort-key": "key-0-9-6"
         },
         {
-            "name": "Brand of Failure - Clear",
+            "name": "Day 8: Brand of Failure - Yumi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -666,7 +666,7 @@
             "sort-key": "key-0-9-7"
         },
         {
-            "name": "Until the Final Moment - Clear",
+            "name": "Day 8: Until the Final Moment - Ryoki Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -678,7 +678,7 @@
             "sort-key": "key-0-9-8"
         },
         {
-            "name": "End of Summer - Clear",
+            "name": "Day 8: End of Summer - Ryōbi Clear",
             "category": [
                 "Kagura Millennium Festival",
                 "Story Mode",
@@ -694,7 +694,7 @@
 
 
         {
-            "name": "The Sister's Reunion - Festival Platform",
+            "name": "Day 1: The Sister's Reunion - Festival Platform",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -706,7 +706,7 @@
             "sort-key": "key-1-2-1-1"
         },
         {
-            "name": "Platforms and Problems - Festival Platform at Start",
+            "name": "Day 1: Platforms and Problems - Festival Platform at Start",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -718,7 +718,7 @@
             "sort-key": "key-1-2-4-1"
         },
         {
-            "name": "Platforms and Problems - Festival Platform under Bridge",
+            "name": "Day 1: Platforms and Problems - Festival Platform under Bridge",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -730,7 +730,7 @@
             "sort-key": "key-1-2-4-2"
         },
         {
-            "name": "Platforms and Problems - Festival Platform at End",
+            "name": "Day 1: Platforms and Problems - Festival Platform at End",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -742,7 +742,7 @@
             "sort-key": "key-1-2-4-3"
         },
         {
-            "name": "The Undie-Eating Contest - Festival Platform",
+            "name": "Day 2: The Undie-Eating Contest - Festival Platform",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -753,7 +753,7 @@
             "sort-key": "key-1-3-1-1"
         },
         {
-            "name": "The Grand Grope-n-Grapple - Festival Platform",
+            "name": "Day 2: The Grand Grope-n-Grapple - Festival Platform",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -764,7 +764,7 @@
             "sort-key": "key-1-3-2-1"
         },
         {
-            "name": "A Mother's Bond - Festival Platform at Center",
+            "name": "Day 3: A Mother's Bond - Festival Platform at Center",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -775,7 +775,7 @@
             "sort-key": "key-1-4-1-1"
         },
         {
-            "name": "A Mother's Bond - Festival Platform at North East",
+            "name": "Day 3: A Mother's Bond - Festival Platform at North East",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -786,7 +786,7 @@
             "sort-key": "key-1-4-1-2"
         },
         {
-            "name": "A Mother's Bond - Festival Platform at South East",
+            "name": "Day 3: A Mother's Bond - Festival Platform at South East",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -797,7 +797,7 @@
             "sort-key": "key-1-4-1-3"
         },
         {
-            "name": "A Mother's Bond - Festival Platform at South West",
+            "name": "Day 3: A Mother's Bond - Festival Platform at South West",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -808,7 +808,7 @@
             "sort-key": "key-1-4-1-4"
         },
         {
-            "name": "A Mother's Bond - Festival Platform at North West",
+            "name": "Day 3: A Mother's Bond - Festival Platform at North West",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -819,7 +819,7 @@
             "sort-key": "key-1-4-1-5"
         },
         {
-            "name": "Determined Decree - Festival Platform behind Spawn",
+            "name": "Day 3: Determined Decree - Festival Platform behind Spawn",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -830,7 +830,7 @@
             "sort-key": "key-1-4-2-1"
         },
         {
-            "name": "Determined Decree - Festival Platform near Entrance",
+            "name": "Day 3: Determined Decree - Festival Platform near Entrance",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -841,7 +841,7 @@
             "sort-key": "key-1-4-2-2"
         },
         {
-            "name": "Determined Decree - Festival Platform near Small Waterfall",
+            "name": "Day 3: Determined Decree - Festival Platform near Small Waterfall",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -852,7 +852,7 @@
             "sort-key": "key-1-4-2-3"
         },
         {
-            "name": "Determined Decree - Festival Platform near Large Waterfall",
+            "name": "Day 3: Determined Decree - Festival Platform near Large Waterfall",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -863,7 +863,7 @@
             "sort-key": "key-1-4-2-4"
         },
         {
-            "name": "The Existence of Emotions - Festival Platform in Alleyway near Start",
+            "name": "Day 3: The Existence of Emotions - Festival Platform in Alleyway near Start",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -874,7 +874,7 @@
             "sort-key": "key-1-4-3-1"
         },
         {
-            "name": "The Existence of Emotions - Festival Platform in Alleyway near End",
+            "name": "Day 3: The Existence of Emotions - Festival Platform in Alleyway near End",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -885,7 +885,7 @@
             "sort-key": "key-1-4-3-2"
         },
         {
-            "name": "The Existence of Emotions - Festival Platform in Alleyway Corner near End",
+            "name": "Day 3: The Existence of Emotions - Festival Platform in Alleyway Corner near End",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -896,7 +896,7 @@
             "sort-key": "key-1-4-3-3"
         },
         {
-            "name": "The Existence of Emotions - Festival Platform in Alleyway Corner Dead End near Start",
+            "name": "Day 3: The Existence of Emotions - Festival Platform in Alleyway Corner Dead End near Start",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -907,7 +907,7 @@
             "sort-key": "key-1-4-3-4"
         },
         {
-            "name": "The Existence of Emotions - Festival Platform at End of Street",
+            "name": "Day 3: The Existence of Emotions - Festival Platform at End of Street",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -918,7 +918,7 @@
             "sort-key": "key-1-4-3-5"
         },
         {
-            "name": "Reunion with Kurokage - Festival Platform at Snowbunny",
+            "name": "Day 3: Reunion with Kurokage - Festival Platform at Snowbunny",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -929,7 +929,7 @@
             "sort-key": "key-1-4-5-1"
         },
         {
-            "name": "Reunion with Kurokage - Festival Platform at Left Dead End",
+            "name": "Day 3: Reunion with Kurokage - Festival Platform at Left Dead End",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -940,7 +940,7 @@
             "sort-key": "key-1-4-5-2"
         },
         {
-            "name": "Reunion with Kurokage - Festival Platform at Right Dead End",
+            "name": "Day 3: Reunion with Kurokage - Festival Platform at Right Dead End",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -951,7 +951,7 @@
             "sort-key": "key-1-4-5-3"
         },
         {
-            "name": "Reunion with Kurokage - Festival Platform at Snowbebey",
+            "name": "Day 3: Reunion with Kurokage - Festival Platform at Snowbebey",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -962,7 +962,7 @@
             "sort-key": "key-1-4-5-4"
         },
         {
-            "name": "Reunion with Kurokage - Festival Platform at Christmas Tree",
+            "name": "Day 3: Reunion with Kurokage - Festival Platform at Christmas Tree",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -973,7 +973,7 @@
             "sort-key": "key-1-4-5-5"
         },
         {
-            "name": "Not Coming Out - Festival Platform behind first House",
+            "name": "Day 4: Not Coming Out - Blue Festival Platform behind first House",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -984,7 +984,7 @@
             "sort-key": "key-1-5-1-1"
         },
         {
-            "name": "Not Coming Out - Festival Platform behind last House",
+            "name": "Day 4: Not Coming Out - Yellow Festival Platform behind last House",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -995,7 +995,7 @@
             "sort-key": "key-1-5-1-2"
         },
         {
-            "name": "Not Coming Out - Festival Platform near Park",
+            "name": "Day 4: Not Coming Out - Yellow Festival Platform near Park",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1006,40 +1006,40 @@
             "sort-key": "key-1-5-1-3"
         },
         {
-            "name": "Slippery Oil - Festival Platform in Onsen",
+            "name": "Day 4: Slippery Oil - Blue Festival Platform in Onsen",
             "category": [
                 "Story Mode",
                 "Festival Platform"
             ],
             "region": "Festival Day 4",
-            "requires": "",
+            "requires": "|Double Jump| OR |Can Wallrun|",
             "hint_entrance": "Day 4",
             "sort-key": "key-1-5-3-1"
         },
         {
-            "name": "Slippery Oil - Festival Platform behind Red Bridge",
+            "name": "Day 4: Slippery Oil - Blue Festival Platform behind Red Bridge",
             "category": [
                 "Story Mode",
                 "Festival Platform"
             ],
             "region": "Festival Day 4",
-            "requires": "",
+            "requires": "|Double Jump| OR |Can Wallrun|",
             "hint_entrance": "Day 4",
             "sort-key": "key-1-5-3-2"
         },
         {
-            "name": "Slippery Oil - Festival Platform on Street",
+            "name": "Day 4: Slippery Oil - Blue Festival Platform on Street",
             "category": [
                 "Story Mode",
                 "Festival Platform"
             ],
             "region": "Festival Day 4",
-            "requires": "",
+            "requires": "|Double Jump| OR |Can Wallrun|",
             "hint_entrance": "Day 4",
             "sort-key": "key-1-5-3-3"
         },
         {
-            "name": "Haruka the Technician - Festival Platform",
+            "name": "Day 4: Haruka the Technician - Festival Platform",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1050,7 +1050,7 @@
             "sort-key": "key-1-5-4-1"
         },
         {
-            "name": "She Belongs to No One - Blue Festival Platform behind House with Pots",
+            "name": "Day 4: She Belongs to No One - Blue Festival Platform behind House with Pots",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1061,7 +1061,7 @@
             "sort-key": "key-1-5-5-1"
         },
         {
-            "name": "She Belongs to No One - Blue Festival Platform between Houses (Town)",
+            "name": "Day 4: She Belongs to No One - Blue Festival Platform between Houses (Town)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1072,7 +1072,7 @@
             "sort-key": "key-1-5-5-2"
         },
         {
-            "name": "She Belongs to No One - Blue Festival Platform between Houses (Field)",
+            "name": "Day 4: She Belongs to No One - Blue Festival Platform between Houses (Field)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1083,7 +1083,7 @@
             "sort-key": "key-1-5-5-3"
         },
         {
-            "name": "When Hibari Gets Mad - Yellow Festival Platform Left from Shrine",
+            "name": "Day 4: When Hibari Gets Mad - Yellow Festival Platform Left from Shrine",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1094,7 +1094,7 @@
             "sort-key": "key-1-5-6-1"
         },
         {
-            "name": "When Hibari Gets Mad - Yellow Festival Platform Right from Shrine",
+            "name": "Day 4: When Hibari Gets Mad - Yellow Festival Platform Right from Shrine",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1105,7 +1105,7 @@
             "sort-key": "key-1-5-6-2"
         },
         {
-            "name": "When Hibari Gets Mad - Red Festival Platform behind Small Buildings",
+            "name": "Day 4: When Hibari Gets Mad - Red Festival Platform behind Small Buildings",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1116,7 +1116,7 @@
             "sort-key": "key-1-5-6-3"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform in Starting Area",
+            "name": "Day 5: The Fragrance of the Bourgeoisie - Purple Festival Platform in Starting Area",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1127,7 +1127,7 @@
             "sort-key": "key-1-6-1-1"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform on Second Floor",
+            "name": "Day 5: The Fragrance of the Bourgeoisie - Purple Festival Platform on Second Floor",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1138,7 +1138,7 @@
             "sort-key": "key-1-6-1-2"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform on Third Floor",
+            "name": "Day 5: The Fragrance of the Bourgeoisie - Purple Festival Platform on Third Floor",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1149,7 +1149,7 @@
             "sort-key": "key-1-6-1-3"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform on Final Floor Entrance",
+            "name": "Day 5: The Fragrance of the Bourgeoisie - Purple Festival Platform on Final Floor Entrance",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1160,7 +1160,7 @@
             "sort-key": "key-1-6-1-4"
         },
         {
-            "name": "The Fragrance of the Bourgeoisie - Purple Festival Platform on Final Floor behind Boulder",
+            "name": "Day 5: The Fragrance of the Bourgeoisie - Purple Festival Platform on Final Floor behind Boulder",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1171,7 +1171,7 @@
             "sort-key": "key-1-6-1-5"
         },
         {
-            "name": "Last Words - Festival Platform on Upper Floor",
+            "name": "Day 5: Last Words - Festival Platform on Upper Floor",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1182,7 +1182,7 @@
             "sort-key": "key-1-6-3-1"
         },
         {
-            "name": "Last Words - Festival Platform at Water near Staircase",
+            "name": "Day 5: Last Words - Festival Platform at Water near Staircase",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1193,7 +1193,7 @@
             "sort-key": "key-1-6-3-2"
         },
         {
-            "name": "Last Words - Festival Platform at Bridge near Purple Dojo",
+            "name": "Day 5: Last Words - Festival Platform at Bridge near Purple Dojo",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1204,7 +1204,7 @@
             "sort-key": "key-1-6-3-3"
         },
         {
-            "name": "Last Words - Festival Platform at Water near Open Doors",
+            "name": "Day 5: Last Words - Festival Platform at Water near Open Doors",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1215,7 +1215,7 @@
             "sort-key": "key-1-6-3-4"
         },
         {
-            "name": "Last Words - Festival Platform at Bridge near open Dojo",
+            "name": "Day 5: Last Words - Festival Platform at Bridge near open Dojo",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1226,7 +1226,7 @@
             "sort-key": "key-1-6-3-5"
         },
         {
-            "name": "Mama - Yellow Festival Platform past Red Bridge",
+            "name": "Day 5: Mama - Yellow Festival Platform past Red Bridge",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1237,7 +1237,7 @@
             "sort-key": "key-1-6-4-1"
         },
         {
-            "name": "Mama - Green Festival Platform in Left Alleyway",
+            "name": "Day 5: Mama - Green Festival Platform in Left Alleyway",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1248,7 +1248,7 @@
             "sort-key": "key-1-6-4-2"
         },
         {
-            "name": "Mama - Green Festival Platform in Right Alleyway",
+            "name": "Day 5: Mama - Green Festival Platform in Right Alleyway",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1259,7 +1259,7 @@
             "sort-key": "key-1-6-4-3"
         },
         {
-            "name": "Leaving with Love - Purple Festival Platform near Entrance",
+            "name": "Day 5: Leaving with Love - Purple Festival Platform near Entrance",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1270,7 +1270,7 @@
             "sort-key": "key-1-6-6-1"
         },
         {
-            "name": "Leaving with Love - Purple Festival Platform under Bridge",
+            "name": "Day 5: Leaving with Love - Purple Festival Platform under Bridge",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1281,7 +1281,7 @@
             "sort-key": "key-1-6-6-2"
         },
         {
-            "name": "Leaving with Love - Purple Festival Platform on Forest Pathway",
+            "name": "Day 5: Leaving with Love - Purple Festival Platform on Forest Pathway",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1292,7 +1292,7 @@
             "sort-key": "key-1-6-6-3"
         },
         {
-            "name": "Leaving with Love - Purple Festival Platform at Temple near Entrance",
+            "name": "Day 5: Leaving with Love - Purple Festival Platform at Temple near Entrance",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1303,7 +1303,7 @@
             "sort-key": "key-1-6-6-4"
         },
         {
-            "name": "Leaving with Love - Purple Festival Platform at Temple near Forest",
+            "name": "Day 5: Leaving with Love - Purple Festival Platform at Temple near Forest",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1314,7 +1314,7 @@
             "sort-key": "key-1-6-6-5"
         },
         {
-            "name": "Ice Queen - Blue Festival Platform at Large Street near Start",
+            "name": "Day 6: Ice Queen - Blue Festival Platform at Large Street near Start",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1325,7 +1325,7 @@
             "sort-key": "key-1-7-2-1"
         },
         {
-            "name": "Ice Queen - Blue Festival Platform at Side of Ending Street",
+            "name": "Day 6: Ice Queen - Blue Festival Platform at Side of Ending Street",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1336,7 +1336,7 @@
             "sort-key": "key-1-7-2-2"
         },
         {
-            "name": "Ice Queen - Green Festival Platform in Alleyway Corner",
+            "name": "Day 6: Ice Queen - Green Festival Platform in Alleyway Corner",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1347,7 +1347,7 @@
             "sort-key": "key-1-7-2-3"
         },
         {
-            "name": "Ice Queen - Green Festival Platform on Short Roof",
+            "name": "Day 6: Ice Queen - Green Festival Platform on Short Roof",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1358,7 +1358,7 @@
             "sort-key": "key-1-7-2-4"
         },
         {
-            "name": "Whenever - Festival Platform",
+            "name": "Day 6: Whenever - Festival Platform",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1369,7 +1369,7 @@
             "sort-key": "key-1-7-3-1"
         },
         {
-            "name": "The Egg Rice Bowl - Yellow Festival Platform",
+            "name": "Day 6: The Egg Rice Bowl - Yellow Festival Platform",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1380,7 +1380,7 @@
             "sort-key": "key-1-7-4-1"
         },
         {
-            "name": "At Any Cost - Festival Platform",
+            "name": "Day 6: At Any Cost - Festival Platform",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1391,7 +1391,7 @@
             "sort-key": "key-1-7-5-1"
         },
         {
-            "name": "Any Face - Festival Platform near Waterfall",
+            "name": "Day 7: Any Face - Red Festival Platform near Waterfall",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1402,7 +1402,7 @@
             "sort-key": "key-1-8-1-1"
         },
         {
-            "name": "Any Face - Festival Platform Uphill",
+            "name": "Day 7: Any Face - Festival Platform Uphill",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1413,7 +1413,7 @@
             "sort-key": "key-1-8-1-1"
         },
         {
-            "name": "La Ninja Japonaise - Festival Platform Left",
+            "name": "Day 7: La Ninja Japonaise - Yellow Festival Platform Left",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1424,7 +1424,7 @@
             "sort-key": "key-1-8-2-1"
         },
         {
-            "name": "La Ninja Japonaise - Festival Platform Right",
+            "name": "Day 7: La Ninja Japonaise - Yellow Festival Platform Right",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1435,7 +1435,7 @@
             "sort-key": "key-1-8-2-1"
         },
         {
-            "name": "Hide 'n' Seek - Green Festival Platform behind Left Goal",
+            "name": "Day 7: Hide 'n' Seek - Green Festival Platform behind Left Goal",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1446,7 +1446,7 @@
             "sort-key": "key-1-8-4-1"
         },
         {
-            "name": "Hide 'n' Seek - Green Festival Platform behind Right Goal",
+            "name": "Day 7: Hide 'n' Seek - Green Festival Platform behind Right Goal",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1468,7 +1468,7 @@
             "sort-key": "key-1-8-4-3"
         },
         {
-            "name": "Hide 'n' Seek - Green Festival Platform aside Running Track near School",
+            "name": "Day 7: Hide 'n' Seek - Green Festival Platform aside Running Track near School",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1479,7 +1479,7 @@
             "sort-key": "key-1-8-4-4"
         },
         {
-            "name": "Thank You - Red Festival Platform behind Houses (Park)",
+            "name": "Day 7: Thank You - Red Festival Platform behind Houses (Park)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1490,7 +1490,7 @@
             "sort-key": "key-1-8-7-1"
         },
         {
-            "name": "Thank You - Red Festival Platform behind Houses (Painting)",
+            "name": "Day 7: Thank You - Red Festival Platform behind Houses (Painting)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1501,7 +1501,7 @@
             "sort-key": "key-1-8-7-2"
         },
         {
-            "name": "Even If It's Just for Us - Blue Festival Platform Left behind Slide",
+            "name": "Day 7: Even If It's Just for Us - Blue Festival Platform Left behind Slide",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1512,7 +1512,7 @@
             "sort-key": "key-1-8-8-1"
         },
         {
-            "name": "Even If It's Just for Us - Blue Festival Platform Right behind Slide",
+            "name": "Day 7: Even If It's Just for Us - Blue Festival Platform Right behind Slide",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1523,7 +1523,7 @@
             "sort-key": "key-1-8-8-2"
         },
         {
-            "name": "Tolerant Evil - Festival Platform Uphill",
+            "name": "Day 8: Tolerant Evil - Festival Platform Uphill",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1534,7 +1534,7 @@
             "sort-key": "key-1-9-5-1"
         },
         {
-            "name": "Tolerant Evil - Festival Platform in Water",
+            "name": "Day 8: Tolerant Evil - Festival Platform in Water",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1545,7 +1545,7 @@
             "sort-key": "key-1-9-5-2"
         },
         {
-            "name": "Until the Final Moment - Festival Platform on Rocks (Uphill)",
+            "name": "Day 8: Until the Final Moment - Festival Platform on Rocks (Uphill)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1556,7 +1556,7 @@
             "sort-key": "key-1-9-8-1"
         },
         {
-            "name": "Until the Final Moment - Festival Platform on Rocks (Log Bridge)",
+            "name": "Day 8: Until the Final Moment - Festival Platform on Rocks (Log Bridge)",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -1567,7 +1567,7 @@
             "sort-key": "key-1-9-8-2"
         },
         {
-            "name": "Until the Final Moment - Festival Platform at Cliff",
+            "name": "Day 8: Until the Final Moment - Festival Platform at Cliff",
             "category": [
                 "Story Mode",
                 "Festival Platform"
@@ -2461,7 +2461,7 @@
             ],
             "region": "Homura's Heart",
             "requires": "|Difficulty 4|",
-            "hint_entrance": "RyōHomurana's Heart",
+            "hint_entrance": "Homura's Heart",
             "sort-key": "key-2-16-5"
         },
         {
@@ -3201,7 +3201,7 @@
 
 
         {
-            "name": "Fearful Virus - Clear",
+            "name": "Fearful Virus - Yumi Clear",
             "category": [
                 "Special Missions",
                 "Base Mission",
@@ -3213,7 +3213,7 @@
             "sort-key": "key-4-0-1"
         },
         {
-            "name": "I'm the Star! - Clear",
+            "name": "I'm the Star! - Asuka Clear",
             "category": [
                 "Special Missions",
                 "Base Mission",
@@ -3225,7 +3225,7 @@
             "sort-key": "key-4-0-2"
         },
         {
-            "name": "Justice of the Moon - Clear",
+            "name": "Justice of the Moon - Yumi Clear",
             "category": [
                 "Special Missions",
                 "DLC Mission",
@@ -3237,7 +3237,7 @@
             "sort-key": "key-4-1-1"
         },
         {
-            "name": "Justice of the Sun - Clear",
+            "name": "Justice of the Sun - Asuka Clear",
             "category": [
                 "Special Missions",
                 "DLC Mission",
@@ -3249,7 +3249,7 @@
             "sort-key": "key-4-1-2"
         },
         {
-            "name": "Defeating Daidōji - Clear",
+            "name": "Defeating Daidōji - Asuka Clear",
             "category": [
                 "Special Missions",
                 "DLC Mission",
@@ -3261,7 +3261,7 @@
             "sort-key": "key-4-1-3"
         },
         {
-            "name": "Daidōji Barging in! - Clear",
+            "name": "Daidōji Barging in! - Daidōji Clear",
             "category": [
                 "Special Missions",
                 "DLC Mission",
@@ -3273,7 +3273,7 @@
             "sort-key": "key-4-1-4"
         },
         {
-            "name": "The Suffering of Hell - Clear",
+            "name": "The Suffering of Hell - Homura Clear",
             "category": [
                 "Special Missions",
                 "DLC Mission",
@@ -3297,7 +3297,7 @@
             "sort-key": "key-4-1-6"
         },
         {
-            "name": "Battle of the Old 'n' New Hebijo - Clear",
+            "name": "Battle of the Old 'n' New Hebijo - Miyabi Clear",
             "category": [
                 "Special Missions",
                 "DLC Mission",
@@ -3309,7 +3309,7 @@
             "sort-key": "key-4-1-7"
         },
         {
-            "name": "Overcoming the Fourth Wall - Clear",
+            "name": "Overcoming the Fourth Wall - Homura Clear",
             "category": [
                 "Special Missions",
                 "DLC Mission",
